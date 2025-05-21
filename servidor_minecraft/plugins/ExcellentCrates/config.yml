@@ -50,6 +50,10 @@ Crate:
     TemplateList:
       default:
         Text:
+        - <lgray>&b&l%crate_name%<lgray>
+        - <lgray>Tu tienes <lyellow>%excellentcrates_keys_%crate_id%%</lyellow> llaves para abrir</lgray>
+      semanal:
+        Text:
         - <lgray>&e&l%crate_name%<lgray>
         - <lgray>Tu tienes <lyellow>%excellentcrates_keys_%crate_id%%</lyellow> llaves para abrir</lgray>
       example:

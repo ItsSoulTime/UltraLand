@@ -1,4 +1,4 @@
-Name: Semanal Crate Crate
+Name: Semanal Crate
 Description: []
 ItemProvider:
   Type: VANILLA
@@ -26,7 +26,7 @@ Block:
     Enabled: true
   Hologram:
     Enabled: true
-    Template: default
+    Template: example
     Y_Offset: 0.0
   Effect:
     Model: helix
@@ -35,3 +35,185 @@ Block:
 Milestones:
   Repeatable: false
 _dataver: 600
+Rewards:
+  List:
+    emerald:
+      Type: ITEM
+      Weight: 60.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:64,id:"minecraft:emerald"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    diamond:
+      Type: ITEM
+      Weight: 40.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:64,id:"minecraft:diamond"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    netherite_scrap:
+      Type: ITEM
+      Weight: 35.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:64,id:"minecraft:netherite_scrap"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    netherite_ingot:
+      Type: ITEM
+      Weight: 29.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:64,id:"minecraft:netherite_ingot"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    nether_star:
+      Type: ITEM
+      Weight: 5.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:nether_star"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    elytra:
+      Type: ITEM
+      Weight: 0.5
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:elytra"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
