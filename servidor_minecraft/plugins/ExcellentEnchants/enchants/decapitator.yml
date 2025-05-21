@@ -130,6 +130,9 @@ Settings:
       SNOW_GOLEM: 8e8d206f61e6de8a79d0cb0bcd98aced464cbfefc921b4160a25282163112a
       ZOMBIFIED_PIGLIN: 7eabaecc5fae5a8a49c8863ff4831aaa284198f1a2398890c765e0a8de18da8c
       TURTLE: 8fa552139966c5fac1b98061ce23fc0ddef058c163142dd6d1c768cd2da207c2
+  # Enchantments that are incompatible with this enchantment.
+  # [*] Reboot required when changed.
+  Conflicts: []
 Distribution:
   # Sets whether this enchantment is a treasure enchantment.
   # Treasure enchantments are those that can't be obtained using an enchantment table, and won't be generated on randomly enchanted equipment sold by villagers or worn by mobs.

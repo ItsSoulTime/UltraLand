@@ -59,6 +59,9 @@ Settings:
     On_Right_Click: true
     # When 'true', crops will be automatically replanted when player break plants with enchanted tool in hand.
     On_Plant_Break: true
+  # Enchantments that are incompatible with this enchantment.
+  # [*] Reboot required when changed.
+  Conflicts: []
 Distribution:
   # Sets whether this enchantment is a treasure enchantment.
   # Treasure enchantments are those that can't be obtained using an enchantment table, and won't be generated on randomly enchanted equipment sold by villagers or worn by mobs.

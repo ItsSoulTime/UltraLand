@@ -72,6 +72,9 @@ Settings:
   # Sets how often (in ticks) this enchantment will be triggered.
   # 20 ticks = 1 second.
   Trigger-Interval: 100
+  # Enchantments that are incompatible with this enchantment.
+  # [*] Reboot required when changed.
+  Conflicts: []
 Distribution:
   # Sets whether this enchantment is a treasure enchantment.
   # Treasure enchantments are those that can't be obtained using an enchantment table, and won't be generated on randomly enchanted equipment sold by villagers or worn by mobs.

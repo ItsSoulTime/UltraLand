@@ -50,9 +50,8 @@ Crate:
     TemplateList:
       default:
         Text:
-        - <lyellow><b>%crate_name%</b></lyellow>
-        - <lgray>You have <lyellow>%excellentcrates_keys_%crate_id%%</lyellow> keys</lgray>
-        - <lgray>Edit templates in <lyellow>config.yml</lyellow></lgray>
+        - <lgray>&e&l%crate_name%<lgray>
+        - <lgray>Tu tienes <lyellow>%excellentcrates_keys_%crate_id%%</lyellow> llaves para abrir</lgray>
       example:
         Text:
         - <lblue><b>%crate_name%</b></lblue>
@@ -87,17 +86,17 @@ Crate:
   # Allowed click types: LEFT, RIGHT, SHIFT_LEFT, SHIFT_RIGHT
   # Allowed crate actions: CRATE_OPEN, CRATE_MASS_OPEN, CRATE_PREVIEW
   Click_Actions:
-    LEFT: CRATE_PREVIEW
-    SHIFT_RIGHT: CRATE_MASS_OPEN
     RIGHT: CRATE_OPEN
+    SHIFT_RIGHT: CRATE_MASS_OPEN
+    LEFT: CRATE_PREVIEW
 Rewards:
   Rarities:
-    mythic:
-      Name: <lpurple>Mythic</lpurple>
-      Weight: 5.0
     common:
       Name: <white>Common</white>
       Weight: 70.0
     rare:
       Name: <lgreen>Rare</lgreen>
       Weight: 25.0
+    mythic:
+      Name: <lpurple>Mythic</lpurple>
+      Weight: 5.0
