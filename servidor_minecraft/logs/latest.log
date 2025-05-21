@@ -515,3 +515,26 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [21:46:03] [Server thread/INFO]: ItsSoulTime issued server command: /iron_ingot
 [21:46:29] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key 5
 [21:46:45] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:48:34] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:49:33] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:49:55] [Server thread/INFO]: ItsSoulTime issued server command: /epica
+[21:50:06] [Server thread/INFO]: ItsSoulTime issued server command: /csgo
+[21:50:34] [Server thread/INFO]: ItsSoulTime issued server command: /default
+[21:52:02] [Server thread/INFO]: ItsSoulTime issued server command: /crate reload
+[21:52:02] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-7 - Shutdown initiated...
+[21:52:02] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-7 - Shutdown completed.
+[21:52:02] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-8 - Starting...
+[21:52:02] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-8 - Added connection org.sqlite.jdbc4.JDBC4Connection@3f81a776
+[21:52:02] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-8 - Start completed.
+[21:52:02] [Server thread/INFO]: [ExcellentCrates] Loaded 7 crate openings.
+[21:52:02] [Server thread/INFO]: [ExcellentCrates] Loaded 4 crate keys.
+[21:52:02] [Server thread/INFO]: [ExcellentCrates] Loaded 3 rarities!
+[21:52:02] [Server thread/INFO]: [ExcellentCrates] Loaded 4 crates.
+[21:52:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: excellentcrates [6.2.0]
+[21:52:02] [Server thread/WARN]: [ExcellentCrates] Problems in 'epica' crate (plugins/ExcellentCrates/crates/epica.yml):
+[21:52:02] [Server thread/ERROR]: [ExcellentCrates] -> No rewards defined!
+[21:52:07] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:52:17] [Server thread/INFO]: ItsSoulTime issued server command: /epica
+[21:52:43] [Server thread/INFO]: ItsSoulTime has made the advancement [Cover Me with Diamonds]
+[21:53:00] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:54:39] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime epica 10

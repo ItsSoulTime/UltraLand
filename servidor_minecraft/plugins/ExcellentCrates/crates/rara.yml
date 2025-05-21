@@ -63,6 +63,10 @@ Rewards:
           Tag:
             Value: '{count:64,id:"minecraft:wheat"}'
             DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
     lapis_lazuli:
       Type: ITEM
       Weight: 10.0
@@ -89,6 +93,10 @@ Rewards:
           Tag:
             Value: '{count:64,id:"minecraft:lapis_lazuli"}'
             DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
     raw_gold:
       Type: ITEM
       Weight: 10.0
@@ -115,3 +123,7 @@ Rewards:
           Tag:
             Value: '{count:64,id:"minecraft:raw_gold"}'
             DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
