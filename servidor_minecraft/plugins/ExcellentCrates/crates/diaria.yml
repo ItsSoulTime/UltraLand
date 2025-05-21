@@ -26,7 +26,7 @@ Block:
     Enabled: true
   Hologram:
     Enabled: true
-    Template: default
+    Template: semanal
     Y_Offset: 0.0
   Effect:
     Model: helix

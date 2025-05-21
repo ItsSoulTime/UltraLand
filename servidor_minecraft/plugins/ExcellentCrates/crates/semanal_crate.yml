@@ -26,7 +26,7 @@ Block:
     Enabled: true
   Hologram:
     Enabled: true
-    Template: example
+    Template: default
     Y_Offset: 0.0
   Effect:
     Model: helix

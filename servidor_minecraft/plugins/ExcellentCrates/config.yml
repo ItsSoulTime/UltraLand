@@ -56,6 +56,10 @@ Crate:
         Text:
         - <lgray>&e&l%crate_name%<lgray>
         - <lgray>Tu tienes <lyellow>%excellentcrates_keys_%crate_id%%</lyellow> llaves para abrir</lgray>
+      rara:
+        Text:
+        - <lgray>&9&l%crate_name%<lgray>
+        - <lgray>Tu tienes <lyellow>%excellentcrates_keys_%crate_id%%</lyellow> llaves para abrir</lgray>
       example:
         Text:
         - <lblue><b>%crate_name%</b></lblue>

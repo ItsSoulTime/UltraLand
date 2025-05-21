@@ -464,3 +464,54 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [21:37:20] [Server thread/INFO]: ItsSoulTime issued server command: /example
 [21:37:31] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
 [21:37:45] [Server thread/INFO]: ItsSoulTime issued server command: /#exit
+[21:38:37] [Server thread/INFO]: ItsSoulTime issued server command: /crate reload
+[21:38:37] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-5 - Shutdown initiated...
+[21:38:37] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-5 - Shutdown completed.
+[21:38:37] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-6 - Starting...
+[21:38:37] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-6 - Added connection org.sqlite.jdbc4.JDBC4Connection@3f932827
+[21:38:37] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-6 - Start completed.
+[21:38:37] [Server thread/INFO]: [ExcellentCrates] Loaded 7 crate openings.
+[21:38:37] [Server thread/INFO]: [ExcellentCrates] Loaded 2 crate keys.
+[21:38:37] [Server thread/INFO]: [ExcellentCrates] Loaded 3 rarities!
+[21:38:37] [Server thread/INFO]: [ExcellentCrates] Loaded 3 crates.
+[21:38:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: excellentcrates [6.2.0]
+[21:38:37] [Server thread/WARN]: [ExcellentCrates] Problems in 'rara' crate (plugins/ExcellentCrates/crates/rara.yml):
+[21:38:37] [Server thread/ERROR]: [ExcellentCrates] -> No rewards defined!
+[21:38:45] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:38:52] [Server thread/INFO]: ItsSoulTime issued server command: /default
+[21:38:56] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:39:12] [Server thread/INFO]: ItsSoulTime issued server command: /semanal
+[21:39:17] [Server thread/INFO]: ItsSoulTime issued server command: /semanal
+[21:39:23] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:39:31] [Server thread/INFO]: ItsSoulTime issued server command: /default
+[21:39:51] [Async Chat Thread - #10/INFO]: <ItsSoulTime> &9&lRara
+[21:40:58] [Server thread/INFO]: ItsSoulTime issued server command: /crate reload
+[21:40:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-6 - Shutdown initiated...
+[21:40:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-6 - Shutdown completed.
+[21:40:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-7 - Starting...
+[21:40:58] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-7 - Added connection org.sqlite.jdbc4.JDBC4Connection@1c7b8d25
+[21:40:58] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-7 - Start completed.
+[21:40:58] [Server thread/INFO]: [ExcellentCrates] Loaded 7 crate openings.
+[21:40:58] [Server thread/INFO]: [ExcellentCrates] Loaded 2 crate keys.
+[21:40:58] [Server thread/INFO]: [ExcellentCrates] Loaded 3 rarities!
+[21:40:58] [Server thread/INFO]: [ExcellentCrates] Loaded 3 crates.
+[21:40:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: excellentcrates [6.2.0]
+[21:40:58] [Server thread/WARN]: [ExcellentCrates] Problems in 'rara' crate (plugins/ExcellentCrates/crates/rara.yml):
+[21:40:58] [Server thread/ERROR]: [ExcellentCrates] -> No rewards defined!
+[21:41:07] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:41:16] [Server thread/INFO]: ItsSoulTime issued server command: /rara
+[21:41:42] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:42:42] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:43:07] [Async Chat Thread - #12/INFO]: <ItsSoulTime> &9&lRara Key
+[21:43:11] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:43:46] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:44:06] [Server thread/INFO]: ItsSoulTime issued server command: /rara_key
+[21:44:21] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime rara_key
+[21:44:25] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime rara_key 5
+[21:45:30] [Server thread/INFO]: ItsSoulTime issued server command: /crate edit
+[21:45:32] [Server thread/INFO]: ItsSoulTime issued server command: /crate edit
+[21:45:35] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:45:54] [Server thread/INFO]: ItsSoulTime issued server command: /#exit
+[21:46:03] [Server thread/INFO]: ItsSoulTime issued server command: /iron_ingot
+[21:46:29] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key 5
+[21:46:45] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor

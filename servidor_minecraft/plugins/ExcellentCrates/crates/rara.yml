@@ -16,8 +16,9 @@ Animation:
 Opening:
   Cooldown: 0
 Key:
-  Required: false
-  Ids: []
+  Required: true
+  Ids:
+  - rara_key
 Block:
   Positions:
   - -12,231,-36,etc
@@ -25,7 +26,7 @@ Block:
     Enabled: true
   Hologram:
     Enabled: true
-    Template: default
+    Template: rara
     Y_Offset: 0.0
   Effect:
     Model: helix
@@ -34,3 +35,83 @@ Block:
 Milestones:
   Repeatable: false
 _dataver: 600
+Rewards:
+  List:
+    wheat:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:64,id:"minecraft:wheat"}'
+            DataVersion: 4082
+    lapis_lazuli:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:64,id:"minecraft:lapis_lazuli"}'
+            DataVersion: 4082
+    raw_gold:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:64,id:"minecraft:raw_gold"}'
+            DataVersion: 4082
