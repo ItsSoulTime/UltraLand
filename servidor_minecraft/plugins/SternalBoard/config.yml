@@ -33,7 +33,7 @@ settings:
       - '&e➣ &fDinero: &e$%vault_eco_balance_fixed%'
       - ''
       - '&e&l▶ &fOtros:'
-      - '&fMuertes: '
+      - '&fMuertes: &c%statistic_deaths%'
       - '&f● &7Ping: &b%player_ping%'
       - '&f● &7Players: &b%bungee_total%'
       - ''
