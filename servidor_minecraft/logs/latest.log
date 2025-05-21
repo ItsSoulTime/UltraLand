@@ -561,3 +561,26 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [22:02:39] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime legendaria 10
 [22:03:31] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode survival
 [22:03:59] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode creative
+[22:08:21] [Server thread/INFO]: ItsSoulTime issued server command: /save-all
+[22:08:21] [Server thread/INFO]: [ItsSoulTime: Saved the game]
+[22:10:10] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:11:56] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:12:58] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:13:55] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:14:11] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:14:23] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:15:11] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_compass_world%
+[22:15:17] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_compass_x%%
+[22:15:21] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_compass_x%
+[22:15:24] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_compass_y%%
+[22:15:31] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_compass_z%
+[22:15:40] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_compass_z%
+[22:15:47] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode survival
+[22:15:49] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode creative
+[22:16:37] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_x%
+[22:16:40] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_x%
+[22:16:46] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_y%
+[22:16:50] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_z%
+[22:16:53] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode survival
+[22:16:57] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode creative
+[22:18:11] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_x%

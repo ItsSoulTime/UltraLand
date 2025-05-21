@@ -23,13 +23,13 @@ settings:
   mode: NORMAL
   scoreboard-interval-update: 20
   scoreboard:
-    title: '&b&lSternal&f&lBoard'
+    title: '&6&lUltra&f&lLand'
     lines:
       - '&8&m+-------------------+'
       - ''
-      - '&a&l▼ &bData:'
-      - '&f● &7Nick: &b%player_name%'
-      - '&f● &7Rank: &b%vault_rank%'
+      - '&e&l▶ &fDatos:'
+      - '&e➣ &fNombre: &e%player_name%'
+      - '&e➣ Coords: &a'
       - '&f● &7Coins: &e%vault_eco_balance_formatted%'
       - ''
       - '&a&l▼ &bExample:'
