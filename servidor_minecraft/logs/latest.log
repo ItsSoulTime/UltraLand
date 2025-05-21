@@ -584,3 +584,21 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [22:16:53] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode survival
 [22:16:57] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode creative
 [22:18:11] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %player_x%
+[22:18:36] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:19:28] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:19:45] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:20:12] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %vault_eco_balance%
+[22:20:19] [Server thread/INFO]: ItsSoulTime issued server command: /eco give ItsSoulTime 1000
+[22:20:21] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %vault_eco_balance%
+[22:20:44] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %vault_eco_balance_commas%
+[22:20:49] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %vault_eco_balance_fixed%%
+[22:20:52] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %vault_eco_balance_fixed%
+[22:20:56] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %vault_eco_balance_formatted%%
+[22:21:05] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %vault_eco_balance_commas%%
+[22:21:12] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %vault_eco_balance_formatted%
+[22:21:16] [Server thread/INFO]: ItsSoulTime issued server command: /papi parse me %vault_eco_balance_fixed%
+[22:22:16] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:23:42] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:25:03] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:26:00] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload
+[22:26:08] [Server thread/INFO]: ItsSoulTime issued server command: /sb reload

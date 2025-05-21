@@ -29,15 +29,15 @@ settings:
       - ''
       - '&e&l▶ &fDatos:'
       - '&e➣ &fNombre: &e%player_name%'
-      - '&e➣ Coords: &a'
-      - '&f● &7Coins: &e%vault_eco_balance_formatted%'
+      - '&e➣ &fCoords: &a%player_x% %player_y% %player_z%'
+      - '&e➣ &fDinero: &e$%vault_eco_balance_fixed%'
       - ''
-      - '&a&l▼ &bExample:'
-      - '&f● &7Lobby: &b#1'
+      - '&e&l▶ &fOtros:'
+      - '&fMuertes: '
       - '&f● &7Ping: &b%player_ping%'
       - '&f● &7Players: &b%bungee_total%'
       - ''
-      - '&f● &fIP: &bplay.yournetwork.com'
+      - '     &fmc.ultraland.com'
 
   #Option to disable some scoreboards from worlds
   world-blacklist:
