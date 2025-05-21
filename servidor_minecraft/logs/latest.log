@@ -538,3 +538,26 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [21:52:43] [Server thread/INFO]: ItsSoulTime has made the advancement [Cover Me with Diamonds]
 [21:53:00] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
 [21:54:39] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime epica 10
+[21:58:16] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[21:59:14] [Server thread/INFO]: ItsSoulTime issued server command: /legendaria
+[21:59:39] [Server thread/INFO]: ItsSoulTime issued server command: /csgo
+[22:01:27] [Server thread/INFO]: ItsSoulTime issued server command: /crate reload
+[22:01:27] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-8 - Shutdown initiated...
+[22:01:27] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-8 - Shutdown completed.
+[22:01:27] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-9 - Starting...
+[22:01:27] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-9 - Added connection org.sqlite.jdbc4.JDBC4Connection@6a0cabff
+[22:01:27] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-9 - Start completed.
+[22:01:27] [Server thread/INFO]: [ExcellentCrates] Loaded 7 crate openings.
+[22:01:27] [Server thread/INFO]: [ExcellentCrates] Loaded 5 crate keys.
+[22:01:27] [Server thread/INFO]: [ExcellentCrates] Loaded 3 rarities!
+[22:01:27] [Server thread/INFO]: [ExcellentCrates] Loaded 5 crates.
+[22:01:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: excellentcrates [6.2.0]
+[22:01:27] [Server thread/WARN]: [ExcellentCrates] Problems in 'legendaria' crate (plugins/ExcellentCrates/crates/legendaria.yml):
+[22:01:27] [Server thread/ERROR]: [ExcellentCrates] -> No rewards defined!
+[22:01:32] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[22:01:41] [Server thread/INFO]: ItsSoulTime issued server command: /legendaria
+[22:01:46] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[22:02:06] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[22:02:39] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime legendaria 10
+[22:03:31] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode survival
+[22:03:59] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode creative
