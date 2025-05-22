@@ -400,3 +400,19 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [22:46:32] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode survival
 [22:46:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add movement_efficiency 1
 [22:46:58] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode creative
+[22:53:52] [Server thread/INFO]: ItsSoulTime issued server command: /shopkeepers Book-shop
+[22:53:55] [Server thread/INFO]: ItsSoulTime issued server command: /shopkeepers Book-shop
+[22:54:17] [Server thread/INFO]: ItsSoulTime issued server command: /shopkeepers piglin
+[22:55:10] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &6&lEspada Moldeable
+[22:55:21] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 5
+[22:55:30] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 3
+[22:55:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant cure
+[22:55:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &6&lEspada Moldeable
+[22:55:52] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 3
+[22:55:55] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 5
+[22:56:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
+[22:56:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 3
+[22:59:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 3
+[22:59:36] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[23:00:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eUna espada que puede ser moldeada
+[23:00:43] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &ePor otras armas increibles
