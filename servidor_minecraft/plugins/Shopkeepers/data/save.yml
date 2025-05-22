@@ -1,0 +1,190 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyway, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|4082
+'1':
+  uniqueId: 4b5744d9-6daa-4c01-b947-a765d9481267
+  world: etc
+  x: 24
+  y: 206
+  z: -5
+  yaw: 353.3029
+  type: admin
+  name: Cristales
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:cleric
+    villagerType: minecraft:taiga
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: IRON_INGOT
+        amount: 32
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: GOLD_INGOT
+        amount: 16
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: EMERALD
+        amount: 24
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: DIAMOND
+        amount: 8
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_INGOT
+        amount: 2
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_SHARD
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Fragmento de cristal extraño","obfuscated":false,"italic":true,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Un extraño fragmento de cristal","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"se ve raro , mejor sera guardarlo","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"y para que crees que servira?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: AMETHYST_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Roca de Fragmentos de cristales
+            extraños","obfuscated":false,"italic":false,"underlined":true,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una Roca con Muchos Fragmentos","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"de Cristales extraños , se ve valioso","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"mejor hay guardarlos por si acaso","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Para que servira esta extraña roca?","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchantment-glint-override: true
+  snapshots: []

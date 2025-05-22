@@ -63,6 +63,10 @@ Rewards:
           Tag:
             Value: '{components:{"minecraft:fireworks":{flight_duration:3b}},count:64,id:"minecraft:firework_rocket"}'
             DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
     wolf_armour:
       Type: ITEM
       Weight: 10.0
@@ -89,6 +93,10 @@ Rewards:
           Tag:
             Value: '{count:1,id:"minecraft:wolf_armor"}'
             DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
     turtle_shell:
       Type: ITEM
       Weight: 10.0
@@ -115,6 +123,10 @@ Rewards:
           Tag:
             Value: '{count:1,id:"minecraft:turtle_helmet"}'
             DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
     diamond_horse_armour:
       Type: ITEM
       Weight: 10.0
@@ -141,6 +153,10 @@ Rewards:
           Tag:
             Value: '{count:1,id:"minecraft:diamond_horse_armor"}'
             DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
     shield:
       Type: ITEM
       Weight: 10.0
@@ -167,3 +183,7 @@ Rewards:
           Tag:
             Value: '{count:1,id:"minecraft:shield"}'
             DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
