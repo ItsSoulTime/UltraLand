@@ -196,7 +196,7 @@ data-version: 3|2|4082
   z: 2
   yaw: 90.951164
   type: admin
-  name: ''
+  name: Armas Raras
   object:
     type: piglin
     baby: false
@@ -374,7 +374,32 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Royal Rapier"'
+          display-name: '{"text":"","extra":[{"text":"Royal ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Rapier","italic":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Esta Arma es muy royal","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que es Rapida para el combate","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '""'
+          enchants:
+            minecraft:cutter: 4
+            minecraft:looting: 5
+            minecraft:mending: 1
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 4
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 3.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:ee182005-5f73-4495-9e84-d55f4cb0d522
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 9.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:83b96b9e-ad1c-4cc6-a525-ca130fde913d
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082

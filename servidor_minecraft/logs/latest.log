@@ -446,3 +446,26 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [23:26:43] [Server thread/INFO]: Named entity IronGolem['Test'/129, uuid='09f78945-f659-477f-9c95-e97b622daf3a', l='ServerLevel[etc]', x=25.89, y=205.00, z=-0.19, cpos=[1, -1], tl=139, v=true] died: Test was slain by ItsSoulTime using [Soul Edge]
 [23:30:16] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &f&lRoyal &e&lRapier
 [23:31:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[23:31:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eEsta Arma es muy royal
+[23:31:56] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eSe ve que es Rapida para el combate
+[23:32:12] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[23:32:21] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 7
+[23:32:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant Unbreaking 4
+[23:33:11] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 3
+[23:33:24] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 5
+[23:33:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[23:34:40] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:35:35] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant cutter 4
+[23:36:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2
+[23:36:52] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2 add_number offhand
+[23:37:01] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2 add_number mainhand
+[23:37:16] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2 add_number mainhand
+[23:37:26] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 3 add_number mainhand
+[23:37:44] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 3 add_number mainhand
+[23:38:03] [Server thread/INFO]: Named entity Zombie['Test'/132, uuid='8d2e4844-590f-44c4-9203-e9bb4e5f1636', l='ServerLevel[etc]', x=21.78, y=205.00, z=9.53, cpos=[1, 0], tl=90, v=true] died: Test was slain by ItsSoulTime using [Royal Rapier]
+[23:38:16] [Server thread/INFO]: Named entity Zombie['Test'/137, uuid='c36337ab-fc7e-4b50-a2c7-b43a2a16ac89', l='ServerLevel[etc]', x=30.97, y=205.00, z=10.30, cpos=[1, 0], tl=85, v=true] died: Test was slain by ItsSoulTime using [Royal Rapier]
+[23:38:23] [Server thread/INFO]: Named entity Zombie['Test'/143, uuid='1b4b3422-a086-4d39-8700-4119ddce4859', l='ServerLevel[etc]', x=11.42, y=205.00, z=6.67, cpos=[0, 0], tl=98, v=true] died: Test was slain by ItsSoulTime using [Royal Rapier]
+[23:38:40] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 5
+[23:38:49] [Server thread/INFO]: Named entity Zombie['Test'/153, uuid='e5a3ddba-d69e-4c95-9570-b059052ae2b4', l='ServerLevel[etc]', x=19.22, y=205.00, z=7.31, cpos=[1, 0], tl=119, v=true] died: Test was slain by ItsSoulTime
+[23:39:54] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 9 add_number mainhand
+[23:40:25] [Server thread/INFO]: Named entity IronGolem['Test'/157, uuid='2b956543-b0ec-4b20-9062-e948693a5fd2', l='ServerLevel[etc]', x=19.12, y=205.00, z=-2.93, cpos=[1, -1], tl=277, v=true] died: Test was slain by ItsSoulTime using [Royal Rapier]
