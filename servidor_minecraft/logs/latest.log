@@ -416,3 +416,11 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [22:59:36] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
 [23:00:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eUna espada que puede ser moldeada
 [23:00:43] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &ePor otras armas increibles
+[23:03:56] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &c&lNo disponible
+[23:04:40] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &b&lEpic &7&lSword
+[23:04:58] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 6
+[23:05:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 4
+[23:08:19] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
+[23:08:34] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
+[23:08:44] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 4
+[23:09:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending
