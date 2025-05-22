@@ -224,7 +224,7 @@ data-version: 3|2|4082
         ==: org.bukkit.inventory.ItemStack
         v: 4082
         type: QUARTZ
-        amount: 16
+        amount: 5
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
@@ -274,7 +274,7 @@ data-version: 3|2|4082
         ==: org.bukkit.inventory.ItemStack
         v: 4082
         type: QUARTZ
-        amount: 16
+        amount: 10
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
@@ -445,7 +445,20 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Molten Sword"'
+          display-name: '{"text":"","extra":[{"text":"Molten Sword","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Una
+            espada bastante caliente","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que tus enemigos sufriran quemaduras","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Un Poco Muy graves","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:fire_aspect: 4
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 5
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -491,7 +504,7 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Molten Blade"'
+          display-name: '"Mystical Spellblade"'
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -537,7 +550,7 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Mystical Spellblade"'
+          display-name: '"Floral Longsword"'
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -583,7 +596,7 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Floral Longsword"'
+          display-name: '"Floral Sabre"'
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -629,52 +642,6 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Floral Sabre"'
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 4082
-        type: QUARTZ
-        amount: 16
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
-          lore:
-          - '""'
-          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          enchants:
-            minecraft:unbreaking: 1
-          ItemFlags:
-          - HIDE_ENCHANTS
-          - HIDE_ADDITIONAL_TOOLTIP
-          enchantment-glint-override: true
-      item2:
-        ==: org.bukkit.inventory.ItemStack
-        v: 4082
-        type: NETHERITE_SWORD
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
-          lore:
-          - '""'
-          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
-          enchants:
-            minecraft:knockback: 2
-            minecraft:looting: 3
-            minecraft:sharpness: 5
-            minecraft:sweeping_edge: 3
-            minecraft:unbreaking: 3
-    '10':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 4082
-        type: NETHERITE_SWORD
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
           display-name: '"Mythic Blade"'
       item1:
         ==: org.bukkit.inventory.ItemStack
@@ -713,7 +680,7 @@ data-version: 3|2|4082
             minecraft:sharpness: 5
             minecraft:sweeping_edge: 3
             minecraft:unbreaking: 3
-    '11':
+    '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 4082

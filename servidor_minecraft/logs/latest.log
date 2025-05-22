@@ -469,3 +469,25 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [23:38:49] [Server thread/INFO]: Named entity Zombie['Test'/153, uuid='e5a3ddba-d69e-4c95-9570-b059052ae2b4', l='ServerLevel[etc]', x=19.22, y=205.00, z=7.31, cpos=[1, 0], tl=119, v=true] died: Test was slain by ItsSoulTime
 [23:39:54] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 9 add_number mainhand
 [23:40:25] [Server thread/INFO]: Named entity IronGolem['Test'/157, uuid='2b956543-b0ec-4b20-9062-e948693a5fd2', l='ServerLevel[etc]', x=19.12, y=205.00, z=-2.93, cpos=[1, -1], tl=277, v=true] died: Test was slain by ItsSoulTime using [Royal Rapier]
+[23:41:55] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &6&lMolten Sword
+[23:42:04] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[23:42:25] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &eUna espada bastante caliente
+[23:42:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eSe ve que tus enemigos sufriran quemaduras
+[23:42:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eUn Poco Muy graves
+[23:43:19] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 8
+[23:43:26] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
+[23:43:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5
+[23:44:53] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
+[23:45:05] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending
+[23:45:44] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant fire_aspect 4
+[23:46:08] [Server thread/INFO]: Named entity IronGolem['Test'/159, uuid='4062bee2-bef0-4d30-8071-57d53975041d', l='ServerLevel[etc]', x=22.13, y=205.00, z=4.68, cpos=[1, 0], tl=169, v=true] died: Test was slain by ItsSoulTime using [Molten Sword]
+[23:46:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+das<--[HERE]
+[23:48:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 8
+[23:48:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 8 add_number mainhand
+[23:48:54] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.6 add_number mainhand
+[23:49:15] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 0.9 mainhand
+[23:49:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1 add_scalar mainhand
+[23:49:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.8 add_scalar mainhand
+[23:50:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.8 add_number mainhand
+[23:50:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.6 add_number mainhand
