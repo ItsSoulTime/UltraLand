@@ -315,7 +315,20 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Soul Edge"'
+          display-name: '{"text":"","extra":[{"text":"Soul ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_aqua","bold":true},{"text":"Edge","italic":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Arma te permite cortar el alma de otros","italic":false,"color":"aqua","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Muy fuerte y suele doler bastante","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+          - '""'
+          enchants:
+            minecraft:double_strike: 4
+            minecraft:knockback: 2
+            minecraft:looting: 4
+            minecraft:sharpness: 10
+            minecraft:sweeping_edge: 6
+            minecraft:unbreaking: 5
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082

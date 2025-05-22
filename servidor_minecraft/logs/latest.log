@@ -434,3 +434,15 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [23:19:12] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
 [23:19:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 10
 [23:19:55] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:23:36] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant double_strike 4
+[23:24:00] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
+[23:24:10] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
+[23:24:22] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 6
+[23:24:45] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
+[23:25:39] [Server thread/INFO]: Named entity Zombie['Test'/116, uuid='3a05ead0-2a95-4277-9027-f87df61e727e', l='ServerLevel[etc]', x=22.32, y=205.00, z=7.34, cpos=[1, 0], tl=167, v=true] died: Test was slain by ItsSoulTime using [Soul Edge]
+[23:26:03] [Server thread/INFO]: ItsSoulTime has reached the goal [Hired Help]
+[23:26:12] [Server thread/INFO]: Named entity IronGolem['Test'/121, uuid='df835c70-b7b4-44cd-bf67-6e96c85b1dc7', l='ServerLevel[etc]', x=17.13, y=205.00, z=0.38, cpos=[1, 0], tl=180, v=true] died: Test was slain by ItsSoulTime using [Soul Edge]
+[23:26:27] [Server thread/INFO]: Named entity EnderMan['Test'/124, uuid='679248e4-7b82-42c2-965d-7e4474401cdb', l='ServerLevel[etc]', x=32.70, y=205.00, z=0.32, cpos=[2, 0], tl=115, v=true] died: Test was slain by ItsSoulTime using [Soul Edge]
+[23:26:43] [Server thread/INFO]: Named entity IronGolem['Test'/129, uuid='09f78945-f659-477f-9c95-e97b622daf3a', l='ServerLevel[etc]', x=25.89, y=205.00, z=-0.19, cpos=[1, -1], tl=139, v=true] died: Test was slain by ItsSoulTime using [Soul Edge]
+[23:30:16] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &f&lRoyal &e&lRapier
+[23:31:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
