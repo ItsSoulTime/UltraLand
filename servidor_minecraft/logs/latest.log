@@ -497,3 +497,27 @@ sada<--[HERE]
 [23:13:56] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &e&lWaxweaver
 [23:14:33] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
 [23:17:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 9
+[23:18:09] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 7
+[23:18:15] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[23:19:03] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant lootin 5
+[23:19:09] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 5
+[23:19:18] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5
+[23:20:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 6
+[23:20:31] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant fire_aspect 2
+[23:20:33] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant fire_aspect 1
+[23:20:50] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:21:42] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:22:17] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant village_defender 3
+[23:22:20] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:22:45] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant scavenger 2
+[23:23:00] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:23:26] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant bane_of_netherspawn 2
+[23:23:58] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 9 add_number mainhand
+[23:24:14] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -1.9 add_number mainhand
+[23:24:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[23:25:17] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &eEsta Espada se ve bastante elegante y fuerte pero algo lenta
+[23:26:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eAunque tambien se ve que tiene bastante poder Royal
+[23:26:40] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eY parece que defiende bien a los aldeanos de una Aldea
+[23:27:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 7
+[23:27:40] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
+[23:27:48] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 6

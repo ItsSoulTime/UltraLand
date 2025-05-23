@@ -1243,7 +1243,38 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Waxweaver"'
+          display-name: '{"text":"","extra":[{"text":"Waxweaver","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Espada se ve bastante elegante y fuerte pero algo lenta","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Aunque tambien se ve que tiene bastante
+            poder Royal","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y parece que defiende bien a los aldeanos
+            de una Aldea","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:bane_of_netherspawn: 2
+            minecraft:fire_aspect: 1
+            minecraft:looting: 6
+            minecraft:mending: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 3
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 9.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:ae2ed762-33c2-4406-be7f-4960ef4f2f9b
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -1.9
+              slot: mainhand
+              operation: 0
+              key: minecraft:9c1d11f0-dcca-4839-b4be-dff5561e5287
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
