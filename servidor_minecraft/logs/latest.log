@@ -476,3 +476,18 @@ sada<--[HERE]
 [22:55:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &7Con esta "espada" que parece que puedes meter efecto wither
 [22:57:11] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7Sin Embargo Tambien se ve que no es muy fuerte
 [22:57:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7 Aunque tambien se ve que hace cortes rapidos
+[22:59:25] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &c&lRibbon &7&lCleaver
+[23:01:08] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 8
+[23:01:14] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 6
+[23:01:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[23:01:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 7
+[23:01:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 3
+[23:02:45] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:04:11] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant cutter 3
+[23:04:41] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 3 add_number mainhand
+[23:04:53] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[23:04:58] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 3.3 add_number mainhand
+[23:05:28] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 8 add_number mainhand
+[23:06:26] [Server thread/INFO]: ItsSoulTime has made the advancement [Suit Up]
+[23:06:39] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[23:07:12] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &cParece que esta arma mete cortes rapidos

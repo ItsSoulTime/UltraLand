@@ -979,7 +979,34 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Dark Blade"'
+          display-name: '{"text":"","extra":[{"text":"Dark ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_gray","bold":true},{"text":"Blade","italic":false,"color":"gray","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Con
+            esta \"espada\" que parece que puedes meter efecto wither","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Sin Embargo Tambien se ve que no es muy
+            fuerte","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":" Aunque tambien se ve que hace cortes rapidos","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:sharpness: 6
+            minecraft:sweeping_edge: 7
+            minecraft:unbreaking: 5
+            minecraft:wither: 3
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 6.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:083cc817-6b01-48fd-a13f-cd27e6f51a61
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.5
+              slot: mainhand
+              operation: 0
+              key: minecraft:2f39075e-cf00-446d-86d2-1fa1d6b30708
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
