@@ -774,4 +774,293 @@ data-version: 3|2|4082
           ==: ItemMeta
           meta-type: UNSPECIFIC
           display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Silverine Blade"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '12':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Masamune"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '13':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Dark Blade"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '14':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Yoru"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '15':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Ribbon Cleaver"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '16':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Waxweaver"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '17':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Sculk Sword"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '18':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Sculk Cleaver"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '19':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Sculk Scythe"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '20':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Muramasa"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '21':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Abominable Blade"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '22':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Abominable Scythe"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '23':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Wickpiercer"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '24':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Divine Justice"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '25':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Divine Axe Rhitta"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '26':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Divine Punisher"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+    '27':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '"Divine Reaper"'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
   snapshots: []

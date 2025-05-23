@@ -63,3 +63,12 @@ dsf}+<--[HERE]
 [00:37:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &ePero no se ve que su daño sea igual que si version grande
 [00:38:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eParece que Tiene Veneno , que dices ¿Quieres Probarla Ahora?
 [00:39:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 10 add_number mainhand
+[00:47:55] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &&b&lMythic &e&lBlade
+[00:47:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &b&lMythic &e&lBlade
+[00:49:12] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 8
+[00:49:25] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 6
+[00:49:29] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[00:49:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5
+[00:50:02] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
+[00:50:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
+[00:51:23] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
