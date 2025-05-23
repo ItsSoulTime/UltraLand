@@ -460,3 +460,19 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [22:45:28] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 6
 [22:45:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
 sada<--[HERE]
+[22:48:35] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
+[22:48:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[22:48:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 7
+[22:49:56] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 3
+[22:51:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant wither 3
+[22:52:18] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 6
+[22:52:29] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_damage
+[22:52:36] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 6 add_number mainhand
+[22:53:04] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2.5
+[22:53:19] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 2.5
+[22:53:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[22:53:28] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2.5 add_number mainhand
+[22:53:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[22:55:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &7Con esta "espada" que parece que puedes meter efecto wither
+[22:57:11] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7Sin Embargo Tambien se ve que no es muy fuerte
+[22:57:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7 Aunque tambien se ve que hace cortes rapidos
