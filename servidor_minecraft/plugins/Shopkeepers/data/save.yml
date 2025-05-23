@@ -459,6 +459,19 @@ data-version: 3|2|4082
             minecraft:sharpness: 8
             minecraft:sweeping_edge: 5
             minecraft:unbreaking: 5
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.1
+              slot: mainhand
+              operation: 0
+              key: minecraft:2f2bc2b6-297a-4200-93eb-31503313e48a
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 8.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:01b3d4fd-1972-4130-8856-ee6d7b4453ba
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082

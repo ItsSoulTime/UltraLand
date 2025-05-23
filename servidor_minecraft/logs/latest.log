@@ -491,3 +491,18 @@ das<--[HERE]
 [23:49:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.8 add_scalar mainhand
 [23:50:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.8 add_number mainhand
 [23:50:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.6 add_number mainhand
+[23:51:51] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.1 add_number mainhand
+[23:51:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.1 add_number mainhand
+[23:52:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 8 add_number mainhand
+[23:54:04] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 7
+[23:54:16] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 3
+[23:54:25] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
+[23:54:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[23:55:08] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 6
+[23:55:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[23:56:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &dUna Arma Tambien bastante elegante y bonita
+[23:56:55] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &dSe ve que tiene el aspecto de una flor especial
+[23:57:16] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &dTendra poderes de una Flor parece
+[23:57:26] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants
+[23:57:28] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:59:24] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
