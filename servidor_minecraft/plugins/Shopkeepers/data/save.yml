@@ -329,6 +329,13 @@ data-version: 3|2|4082
             minecraft:sharpness: 10
             minecraft:sweeping_edge: 6
             minecraft:unbreaking: 5
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 10.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:d95572a5-7747-47a6-bbc3-1e932385369a
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -664,7 +671,38 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Floral Sabre"'
+          display-name: '{"text":"","extra":[{"text":"Floral ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Sabre","italic":false,"color":"red","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Una
+            Espada con una Hermosa Flor puesta en el mango","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que es rapida y algo fuerte para el
+            combate","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Pero no se ve que su daño sea igual que
+            si version grande","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Parece que Tiene Veneno , que dices ¿Quieres
+            Probarla Ahora?","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 5
+            minecraft:venom: 4
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:0ca7721f-9132-4fef-ad44-1889a5310bb8
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.8
+              slot: mainhand
+              operation: 0
+              key: minecraft:9dc6c065-5ad6-4914-b677-2114f569e741
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082

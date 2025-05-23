@@ -55,3 +55,11 @@ dsf}+<--[HERE]
 [00:29:48] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
 [00:30:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant venom 4
 [00:30:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 7 add_number mainhand
+[00:33:35] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.8 add_number mainhand
+[00:34:22] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &e&lFloral &c&lSabre
+[00:35:28] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[00:36:45] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &eUna Espada con una Hermosa Flor puesta en el mango
+[00:37:30] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eSe ve que es rapida y algo fuerte para el combate
+[00:37:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &ePero no se ve que su daño sea igual que si version grande
+[00:38:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eParece que Tiene Veneno , que dices ¿Quieres Probarla Ahora?
+[00:39:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 10 add_number mainhand
