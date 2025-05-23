@@ -422,3 +422,23 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [22:26:14] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2 add_number mainhand
 [22:26:40] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 7 add_number mainhand
 [22:27:34] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &7&lMasamune
+[22:27:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 8
+[22:28:05] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
+[22:28:21] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 3
+[22:28:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5
+[22:28:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[22:28:51] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 3
+[22:28:59] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list ItsSoulTime
+[22:29:32] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant rocket 3
+[22:29:40] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant decapitator 4
+[22:30:39] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant
+[22:30:44] [Server thread/INFO]: ItsSoulTime issued server command: /eenchant lit
+[22:30:45] [Server thread/INFO]: ItsSoulTime issued server command: /eenchant list
+[22:30:50] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[22:33:12] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[22:34:00] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant wind_burst
+[22:34:36] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants disenchant wind_burst
+[22:34:51] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[22:35:26] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &7Se ve que con esta Katana cortaras cabezas y
+[22:35:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7Y de paso manejar el viento con lo lejos que podrias llegar
+[22:36:33] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7a mandar a tus rivales , (Cuidado al atacar a tus amistades)

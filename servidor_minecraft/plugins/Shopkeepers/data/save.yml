@@ -945,7 +945,24 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Masamune"'
+          display-name: '{"text":"","extra":[{"text":"Masamune","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Se
+            ve que con esta Katana cortaras cabezas y","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y de paso manejar el viento con lo lejos
+            que podrias llegar","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"a mandar a tus rivales , (Cuidado al atacar
+            a tus amistades)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:decapitator: 4
+            minecraft:knockback: 3
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:rocket: 3
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 5
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
