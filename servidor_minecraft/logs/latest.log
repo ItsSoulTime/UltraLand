@@ -442,3 +442,21 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [22:35:26] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &7Se ve que con esta Katana cortaras cabezas y
 [22:35:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7Y de paso manejar el viento con lo lejos que podrias llegar
 [22:36:33] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7a mandar a tus rivales , (Cuidado al atacar a tus amistades)
+[22:37:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 8
+[22:37:54] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
+[22:38:00] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[22:38:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 3
+[22:38:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 6
+[22:39:05] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant bane_of_arthropods 5
+[22:40:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &2&lYoru
+[22:40:55] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[22:41:24] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant blindness 3
+[22:41:33] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[22:41:55] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant rage 1
+[22:42:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[22:43:05] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &eParece que esta cosa puede llevarte a usarla con furia
+[22:43:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eY Tambien se ve que deja ciego a tus rivales con solo usarla
+[22:44:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &8&lDark &7&lBlade
+[22:45:28] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 6
+[22:45:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+sada<--[HERE]

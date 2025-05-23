@@ -996,7 +996,22 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Yoru"'
+          display-name: '{"text":"","extra":[{"text":"Yoru","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_green","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Parece
+            que esta cosa puede llevarte a usarla con furia","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y Tambien se ve que deja ciego a tus rivales
+            con solo usarla","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:bane_of_arthropods: 5
+            minecraft:blindness: 3
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:rage: 1
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 6
+            minecraft:unbreaking: 5
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
