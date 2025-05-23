@@ -517,7 +517,34 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Mystical Spellblade"'
+          display-name: '{"text":"","extra":[{"text":"Mystical ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Spellblade","italic":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Una
+            Arma Tambien bastante elegante y bonita","italic":false,"color":"light_purple","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que tiene el aspecto de una flor especial","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Tendra poderes de una Flor parece","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":false}]}'
+          enchants:
+            minecraft:looting: 6
+            minecraft:mending: 1
+            minecraft:scavenger: 3
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 5
+            minecraft:venom: 2
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:58bbd3d4-ae0f-4b8c-949f-cbe9400c491c
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.8
+              slot: mainhand
+              operation: 0
+              key: minecraft:500116d9-2c2a-48dd-bbf6-9eb9a5bc2fba
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
