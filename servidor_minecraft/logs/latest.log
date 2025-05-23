@@ -87,3 +87,26 @@ dsf}+<--[HERE]
 [00:59:10] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
 [00:59:18] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5
 [01:00:01] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
+[01:02:09] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant bane_of_arthropods 6
+[01:02:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 3
+[01:05:18] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[01:05:55] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant decapitator 4
+[01:06:09] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[01:06:27] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant rage 2
+[01:07:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &cEsta arma es la misma que la su version normal
+[01:07:56] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &cSolo que hace mas daño sin embargo
+[01:08:11] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &cSe ve que es mas lenta y pierde sus propiedades
+[01:08:31] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &cDe conseguir mas experiencia para Encantar en el proceso
+[01:09:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 8 add_number mainhand
+[01:09:26] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_damage
+[01:09:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 9 add_number mainhand
+[01:10:24] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -1.9 add_number mainhand
+[01:10:39] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[01:10:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2.3 add_number mainhand
+[01:10:58] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[01:11:02] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2 add_number mainhand
+[01:11:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[01:11:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -3.2 add_number mainhand
+[01:11:18] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[01:11:26] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2.9 add_number mainhand
+[01:11:54] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.9 add_number mainhand
