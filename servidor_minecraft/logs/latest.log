@@ -18,3 +18,27 @@
 [00:10:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 1.6
 [00:11:07] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 1.6 1
 [00:11:25] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 0.1 add_number mainhand
+[00:12:11] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 1
+[00:12:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 1 1
+[00:12:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 2
+[00:12:34] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[00:14:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+dsf}+<--[HERE]
+[00:16:44] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 0 add_number mainhand
+[00:16:51] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -1 add_number mainhand
+[00:17:05] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2 add_number mainhand
+[00:17:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[00:17:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2 add_number mainhand
+[00:17:30] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2 add_number mainhand
+[00:17:40] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[00:17:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -3 add_number mainhand
+[00:17:52] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[00:17:56] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -4 add_number mainhand
+[00:18:02] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[00:18:09] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -3.1 add_number mainhand
+[00:18:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[00:18:24] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -3.3 add_number mainhand
+[00:18:51] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[00:19:20] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant venom 4
+[00:20:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 10 add_number mainhand
+[00:21:22] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
