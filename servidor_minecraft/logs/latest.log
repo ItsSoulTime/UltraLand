@@ -491,3 +491,9 @@ sada<--[HERE]
 [23:06:26] [Server thread/INFO]: ItsSoulTime has made the advancement [Suit Up]
 [23:06:39] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
 [23:07:12] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &cParece que esta arma mete cortes rapidos
+[23:07:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &cY de Una Gran Calidad gracias a sus ¿Cables Rojos?
+[23:08:06] [Server thread/INFO]: ItsSoulTime issued server command: /save-all
+[23:08:06] [Server thread/INFO]: [ItsSoulTime: Saved the game]
+[23:13:56] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &e&lWaxweaver
+[23:14:33] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:17:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 9
