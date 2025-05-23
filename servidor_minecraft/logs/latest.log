@@ -72,3 +72,18 @@ dsf}+<--[HERE]
 [00:50:02] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
 [00:50:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
 [00:51:23] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[00:52:09] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant bane_of_arthropods 5
+[00:52:34] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[00:54:07] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant exp_hunter 3
+[00:54:34] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[00:54:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &bEsta Espada aunque parezca una espada de diamante
+[00:55:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &bComun como todas tiene sus cosas distintas
+[00:55:48] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &bSe ve que ganas mas experiencia para encantar otras cosas
+[00:56:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 3 &bComun como todas , tiene sus cosas distintas
+[00:57:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &c&lCorrupted &b&lMythic &8&lBlade
+[00:58:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 9 }
+[00:58:48] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 9
+[00:59:05] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 4
+[00:59:10] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[00:59:18] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5
+[01:00:01] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
