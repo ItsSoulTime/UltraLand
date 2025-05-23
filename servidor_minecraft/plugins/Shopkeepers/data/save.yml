@@ -765,6 +765,19 @@ data-version: 3|2|4082
             minecraft:sharpness: 8
             minecraft:sweeping_edge: 5
             minecraft:unbreaking: 6
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.8
+              slot: mainhand
+              operation: 0
+              key: minecraft:cd1e2e18-eeda-4dde-8542-168a691e6411
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 8.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:af464fbc-57af-4e2b-9af4-c9f2626e9220
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -810,15 +823,75 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Corrupted Mythic Blade"'
+          display-name: '{"text":"","extra":[{"text":"Corrupted ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true},{"text":"Mythic
+            ","italic":false,"color":"aqua","bold":true},{"text":"Blade","italic":false,"color":"dark_gray","bold":true}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            arma es la misma que la su version normal","italic":false,"color":"red","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Solo que hace mas daño sin embargo","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que es mas lenta y pierde sus propiedades","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          - '{"text":"","extra":[{"text":"De conseguir mas experiencia para Encantar
+            en el proceso","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          enchants:
+            minecraft:bane_of_arthropods: 6
+            minecraft:decapitator: 4
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:rage: 2
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 4
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 9.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:252371b5-31e1-4dab-be89-99152093d74a
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -2.9
+              slot: mainhand
+              operation: 0
+              key: minecraft:3b553417-88a0-48cf-9819-6ec744c1d078
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
-        type: BEDROCK
+        type: QUARTZ
+        amount: 16
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack

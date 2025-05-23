@@ -1,112 +1,403 @@
-[00:03:45] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant scavenger 3
-[00:03:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant venom 2
-[00:04:25] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &f&lMystical &d&lSpellblade
-[00:05:05] [Server thread/INFO]: Named entity IronGolem['Test'/170, uuid='041e2412-2461-44b1-b364-38f7bba27cf1', l='ServerLevel[etc]', x=22.13, y=205.00, z=4.51, cpos=[1, 0], tl=204, v=true] died: Test was slain by ItsSoulTime using [Mystical Spellblade]
-[00:05:25] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
-[00:05:41] [Server thread/INFO]: Named entity IronGolem['Test'/173, uuid='fcd66521-3737-45fc-89f2-1fe86192316a', l='ServerLevel[etc]', x=25.68, y=205.00, z=2.16, cpos=[1, 0], tl=589, v=true] died: Test was slain by ItsSoulTime using [Mystical Spellblade]
-[00:06:10] [Server thread/INFO]: Named entity IronGolem['Test'/177, uuid='fd83dc18-3e9b-421b-8878-6e7acda73c0a', l='ServerLevel[etc]', x=19.13, y=205.00, z=1.33, cpos=[1, 0], tl=296, v=true] died: Test was slain by ItsSoulTime using [Mystical Spellblade]
-[00:06:52] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 7 add_number mainhand
-[00:07:12] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.8 add_number mainhand
-[00:08:10] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 9
-[00:08:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
-[00:08:31] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
-[00:09:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 6
-[00:09:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
-[00:10:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &e&lFloral &c&lLongsword
-[00:10:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[00:10:54] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[00:10:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 1.6
-[00:11:07] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 1.6 1
-[00:11:25] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 0.1 add_number mainhand
-[00:12:11] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 1
-[00:12:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 1 1
-[00:12:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed 2
-[00:12:34] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[00:14:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
-dsf}+<--[HERE]
-[00:16:44] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 0 add_number mainhand
-[00:16:51] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -1 add_number mainhand
-[00:17:05] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2 add_number mainhand
-[00:17:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[00:17:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2 add_number mainhand
-[00:17:30] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2 add_number mainhand
-[00:17:40] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[00:17:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -3 add_number mainhand
-[00:17:52] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[00:17:56] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -4 add_number mainhand
-[00:18:02] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[00:18:09] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -3.1 add_number mainhand
-[00:18:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[00:18:24] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -3.3 add_number mainhand
-[00:18:51] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
-[00:19:20] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant venom 4
-[00:20:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 10 add_number mainhand
-[00:21:22] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
-[00:21:53] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &eUna Arma con una Hermosa Flor en el Mango
-[00:22:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eSe ve que es algo Grande y Lenta al ataque
-[00:22:45] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &ePero Tambien se ve que pega buenos golpes
-[00:23:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eSe ve que envenena , ¿La probaras ahora mismo?
-[00:24:09] [Server thread/INFO]: Named entity IronGolem['Test'/182, uuid='c6900813-fa51-4c81-aaec-12dfb8f50590', l='ServerLevel[etc]', x=21.13, y=205.00, z=4.50, cpos=[1, 0], tl=477, v=true] died: Test was slain by ItsSoulTime using [Floral Longsword]
-[00:27:17] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 8
-[00:27:30] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
-[00:27:35] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
-[00:29:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
-[00:29:36] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5
-[00:29:48] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
-[00:30:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant venom 4
-[00:30:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 7 add_number mainhand
-[00:33:35] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.8 add_number mainhand
-[00:34:22] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &e&lFloral &c&lSabre
-[00:35:28] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
-[00:36:45] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &eUna Espada con una Hermosa Flor puesta en el mango
-[00:37:30] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eSe ve que es rapida y algo fuerte para el combate
-[00:37:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &ePero no se ve que su daño sea igual que si version grande
-[00:38:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eParece que Tiene Veneno , que dices ¿Quieres Probarla Ahora?
-[00:39:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 10 add_number mainhand
-[00:47:55] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &&b&lMythic &e&lBlade
-[00:47:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &b&lMythic &e&lBlade
-[00:49:12] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 8
-[00:49:25] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 6
-[00:49:29] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
-[00:49:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5
-[00:50:02] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
-[00:50:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
-[00:51:23] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
-[00:52:09] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant bane_of_arthropods 5
-[00:52:34] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
-[00:54:07] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant exp_hunter 3
-[00:54:34] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
-[00:54:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &bEsta Espada aunque parezca una espada de diamante
-[00:55:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &bComun como todas tiene sus cosas distintas
-[00:55:48] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &bSe ve que ganas mas experiencia para encantar otras cosas
-[00:56:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 3 &bComun como todas , tiene sus cosas distintas
-[00:57:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &c&lCorrupted &b&lMythic &8&lBlade
-[00:58:47] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 9 }
-[00:58:48] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 9
-[00:59:05] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 4
-[00:59:10] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
-[00:59:18] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5
-[01:00:01] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant knockback 2
-[01:02:09] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant bane_of_arthropods 6
-[01:02:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 3
-[01:05:18] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
-[01:05:55] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant decapitator 4
-[01:06:09] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
-[01:06:27] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant rage 2
-[01:07:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &cEsta arma es la misma que la su version normal
-[01:07:56] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &cSolo que hace mas daño sin embargo
-[01:08:11] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &cSe ve que es mas lenta y pierde sus propiedades
-[01:08:31] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &cDe conseguir mas experiencia para Encantar en el proceso
-[01:09:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 8 add_number mainhand
-[01:09:26] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_damage
-[01:09:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 9 add_number mainhand
-[01:10:24] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -1.9 add_number mainhand
-[01:10:39] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[01:10:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2.3 add_number mainhand
-[01:10:58] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[01:11:02] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2 add_number mainhand
-[01:11:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[01:11:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -3.2 add_number mainhand
-[01:11:18] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
-[01:11:26] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -2.9 add_number mainhand
-[01:11:54] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 1.9 add_number mainhand
+[22:07:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[22:07:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[22:07:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:07:38] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/OptiFine_1.21.1_HD_U_J1.jar'...
+[22:07:39] [ServerMain/ERROR]: [PluginRemapper] Encountered exception remapping plugins
+java.util.concurrent.CompletionException: java.lang.RuntimeException: Failed to remap plugin jar 'plugins/OptiFine_1.21.1_HD_U_J1.jar'
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:649) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Failed to remap plugin jar 'plugins/OptiFine_1.21.1_HD_U_J1.jar'
+	at io.papermc.paper.pluginremap.PluginRemapper.lambda$remap$7(PluginRemapper.java:358) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	... 4 more
+Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/optifine/BetterGrass.class, net/optifine/BetterSnow.class, net/optifine/BlockDir.class, net/optifine/BlockPosM$1$1.class, net/optifine/BlockPosM$1.class, net/optifine/BlockPosM.class, net/optifine/ChunkOF.class, net/optifine/ChunkPosComparator.class, net/optifine/ClearWater.class, net/optifine/ComparableVersion.class, net/optifine/Config.class, net/optifine/ConnectedProperties.class, net/optifine/ConnectedTextures$1.class, net/optifine/ConnectedTextures.class, net/optifine/ConnectedTexturesCompact$Dir.class, net/optifine/ConnectedTexturesCompact.class, net/optifine/CrashReporter$1.class, net/optifine/CrashReporter.class, net/optifine/CustomBlockLayers.class, net/optifine/CustomColorFader.class, net/optifine/CustomColormap.class, net/optifine/CustomColors$1.class, net/optifine/CustomColors$2.class, net/optifine/CustomColors$3.class, net/optifine/CustomColors$4.class, net/optifine/CustomColors$5.class, net/optifine/CustomColors$IColorizer.class, net/optifine/CustomColors.class, net/optifine/CustomGuiProperties$EnumContainer.class, net/optifine/CustomGuiProperties$EnumVariant.class, net/optifine/CustomGuiProperties.class, net/optifine/CustomGuis.class, net/optifine/CustomItemProperties.class, net/optifine/CustomItems$1.class, net/optifine/CustomItems.class, net/optifine/CustomItemsComparator.class, net/optifine/CustomLoadingScreen.class, net/optifine/CustomLoadingScreens.class, net/optifine/CustomPanorama.class, net/optifine/CustomPanoramaProperties.class, net/optifine/CustomSky.class, net/optifine/CustomSkyLayer.class, net/optifine/DynamicLight.class, net/optifine/DynamicLights.class, net/optifine/DynamicLightsMap.class, net/optifine/EmissiveTextures.class, net/optifine/GlErrors$GlError.class, net/optifine/GlErrors.class, net/optifine/IRandomEntity.class, net/optifine/ItemOverrideCache.class, net/optifine/ItemOverrideProperty.class, net/optifine/Lagometer$TimerNano.class, net/optifine/Lagometer.class, net/optifine/Lang.class, net/optifine/LightMap.class, net/optifine/LightMapPack.class, net/optifine/Log.class, net/optifine/McDebugInfo.class, net/optifine/Mipmaps.class, net/optifine/NaturalProperties.class, net/optifine/NaturalTextures.class, net/optifine/QuickInfo$1.class, net/optifine/QuickInfo.class, net/optifine/RandomEntities.class, net/optifine/RandomEntity.class, net/optifine/RandomEntityContext$Models.class, net/optifine/RandomEntityContext$Textures.class, net/optifine/RandomEntityContext.class, net/optifine/RandomEntityProperties.class, net/optifine/RandomEntityRule.class, net/optifine/RandomTileEntity.class, net/optifine/SmartAnimations.class, net/optifine/SmartExecutorService$1.class, net/optifine/SmartExecutorService.class, net/optifine/SmartLeaves.class, net/optifine/TextureAnimation.class, net/optifine/TextureAnimationFrame.class, net/optifine/TextureAnimations.class, net/optifine/Vec3M.class, net/optifine/VersionCheckThread.class, net/optifine/config/BiomeId.class, net/optifine/config/ConfigUtils.class, net/optifine/config/ConnectedParser$1.class, net/optifine/config/ConnectedParser$2.class, net/optifine/config/ConnectedParser.class, net/optifine/config/EntityTypeNameLocator.class, net/optifine/config/FloatOptions.class, net/optifine/config/GlVersion.class, net/optifine/config/INameGetter.class, net/optifine/config/IObjectLocator.class, net/optifine/config/IParserInt.class, net/optifine/config/IPersitentOption.class, net/optifine/config/ItemLocator.class, net/optifine/config/IterableOptionBool.class, net/optifine/config/IterableOptionInt.class, net/optifine/config/IteratableOptionOF.class, net/optifine/config/MatchBlock.class, net/optifine/config/MatchProfession.class, net/optifine/config/Matches.class, net/optifine/config/NbtTagValue.class, net/optifine/config/ObjBooleanConsumer.class, net/optifine/config/Option.class, net/optifine/config/OptionValueInt.class, net/optifine/config/ParserEnchantmentId.class, net/optifine/config/RangeInt.class, net/optifine/config/RangeListInt.class, net/optifine/config/SliderPercentageOptionOF.class, net/optifine/config/SliderableValueSetInt.class, net/optifine/config/ToBooleanFunction.class, net/optifine/config/Weather.class, net/optifine/entity/model/ArrowModel.class, net/optifine/entity/model/BannerModel.class, net/optifine/entity/model/BedModel.class, net/optifine/entity/model/BellModel.class, net/optifine/entity/model/ChestLargeModel.class, net/optifine/entity/model/ChestModel.class, net/optifine/entity/model/ConduitModel.class, net/optifine/entity/model/CustomEntityModel.class, net/optifine/entity/model/CustomEntityModelParser.class, net/optifine/entity/model/CustomEntityModels.class, net/optifine/entity/model/CustomEntityRenderer.class, net/optifine/entity/model/CustomModelRegistry.class, net/optifine/entity/model/CustomModelRenderer.class, net/optifine/entity/model/DecoratedPotModel.class, net/optifine/entity/model/EnderCrystalModel.class, net/optifine/entity/model/IEntityRenderer.class, net/optifine/entity/model/ModelAdapter.class, net/optifine/entity/model/ModelAdapterAllay.class, net/optifine/entity/model/ModelAdapterArmorStand.class, net/optifine/entity/model/ModelAdapterArrow.class, net/optifine/entity/model/ModelAdapterAxolotl.class, net/optifine/entity/model/ModelAdapterBanner.class, net/optifine/entity/model/ModelAdapterBat.class, net/optifine/entity/model/ModelAdapterBed.class, net/optifine/entity/model/ModelAdapterBee.class, net/optifine/entity/model/ModelAdapterBell.class, net/optifine/entity/model/ModelAdapterBiped.class, net/optifine/entity/model/ModelAdapterBlaze.class, net/optifine/entity/model/ModelAdapterBoat.class, net/optifine/entity/model/ModelAdapterBook.class, net/optifine/entity/model/ModelAdapterBookLectern.class, net/optifine/entity/model/ModelAdapterBreeze.class, net/optifine/entity/model/ModelAdapterBreezeEyes.class, net/optifine/entity/model/ModelAdapterBreezeWind.class, net/optifine/entity/model/ModelAdapterCamel.class, net/optifine/entity/model/ModelAdapterCat.class, net/optifine/entity/model/ModelAdapterCatCollar.class, net/optifine/entity/model/ModelAdapterCaveSpider.class, net/optifine/entity/model/ModelAdapterChest.class, net/optifine/entity/model/ModelAdapterChestBoat.class, net/optifine/entity/model/ModelAdapterChestLarge.class, net/optifine/entity/model/ModelAdapterChestRaft.class, net/optifine/entity/model/ModelAdapterChicken.class, net/optifine/entity/model/ModelAdapterCod.class, net/optifine/entity/model/ModelAdapterConduit.class, net/optifine/entity/model/ModelAdapterCow.class, net/optifine/entity/model/ModelAdapterCreeper.class, net/optifine/entity/model/ModelAdapterCreeperCharge.class, net/optifine/entity/model/ModelAdapterDecoratedPot.class, net/optifine/entity/model/ModelAdapterDolphin.class, net/optifine/entity/model/ModelAdapterDonkey.class, net/optifine/entity/model/ModelAdapterDragon.class, net/optifine/entity/model/ModelAdapterDrowned.class, net/optifine/entity/model/ModelAdapterDrownedOuter.class, net/optifine/entity/model/ModelAdapterElderGuardian.class, net/optifine/entity/model/ModelAdapterEnderChest.class, net/optifine/entity/model/ModelAdapterEnderCrystal.class, net/optifine/entity/model/ModelAdapterEnderman.class, net/optifine/entity/model/ModelAdapterEndermite.class, net/optifine/entity/model/ModelAdapterEvoker.class, net/optifine/entity/model/ModelAdapterEvokerFangs.class, net/optifine/entity/model/ModelAdapterFox.class, net/optifine/entity/model/ModelAdapterFrog.class, net/optifine/entity/model/ModelAdapterGhast.class, net/optifine/entity/model/ModelAdapterGiant.class, net/optifine/entity/model/ModelAdapterGlowSquid.class, net/optifine/entity/model/ModelAdapterGoat.class, net/optifine/entity/model/ModelAdapterGuardian.class, net/optifine/entity/model/ModelAdapterHangingSign.class, net/optifine/entity/model/ModelAdapterHead.class, net/optifine/entity/model/ModelAdapterHeadCreeper.class, net/optifine/entity/model/ModelAdapterHeadDragon.class, net/optifine/entity/model/ModelAdapterHeadPiglin.class, net/optifine/entity/model/ModelAdapterHeadPlayer.class, net/optifine/entity/model/ModelAdapterHeadSkeleton.class, net/optifine/entity/model/ModelAdapterHeadWitherSkeleton.class, net/optifine/entity/model/ModelAdapterHeadZombie.class, net/optifine/entity/model/ModelAdapterHoglin.class, net/optifine/entity/model/ModelAdapterHorse.class, net/optifine/entity/model/ModelAdapterHorseArmor.class, net/optifine/entity/model/ModelAdapterHusk.class, net/optifine/entity/model/ModelAdapterIllager.class, net/optifine/entity/model/ModelAdapterIllusioner.class, net/optifine/entity/model/ModelAdapterIronGolem.class, net/optifine/entity/model/ModelAdapterLeadKnot.class, net/optifine/entity/model/ModelAdapterLlama.class, net/optifine/entity/model/ModelAdapterLlamaDecor.class, net/optifine/entity/model/ModelAdapterLlamaSpit.class, net/optifine/entity/model/ModelAdapterMagmaCube.class, net/optifine/entity/model/ModelAdapterMinecart.class, net/optifine/entity/model/ModelAdapterMinecartChest.class, net/optifine/entity/model/ModelAdapterMinecartCommandBlock.class, net/optifine/entity/model/ModelAdapterMinecartFurnace.class, net/optifine/entity/model/ModelAdapterMinecartHopper.class, net/optifine/entity/model/ModelAdapterMinecartMobSpawner.class, net/optifine/entity/model/ModelAdapterMinecartTnt.class, net/optifine/entity/model/ModelAdapterMooshroom.class, net/optifine/entity/model/ModelAdapterMule.class, net/optifine/entity/model/ModelAdapterOcelot.class, net/optifine/entity/model/ModelAdapterPanda.class, net/optifine/entity/model/ModelAdapterParrot.class, net/optifine/entity/model/ModelAdapterPhantom.class, net/optifine/entity/model/ModelAdapterPig.class, net/optifine/entity/model/ModelAdapterPigSaddle.class, net/optifine/entity/model/ModelAdapterPiglin.class, net/optifine/entity/model/ModelAdapterPiglinBrute.class, net/optifine/entity/model/ModelAdapterPillager.class, net/optifine/entity/model/ModelAdapterPlayer.class, net/optifine/entity/model/ModelAdapterPolarBear.class, net/optifine/entity/model/ModelAdapterPufferFishBig.class, net/optifine/entity/model/ModelAdapterPufferFishMedium.class, net/optifine/entity/model/ModelAdapterPufferFishSmall.class, net/optifine/entity/model/ModelAdapterQuadruped.class, net/optifine/entity/model/ModelAdapterRabbit.class, net/optifine/entity/model/ModelAdapterRaft.class, net/optifine/entity/model/ModelAdapterRavager.class, net/optifine/entity/model/ModelAdapterSalmon.class, net/optifine/entity/model/ModelAdapterSheep.class, net/optifine/entity/model/ModelAdapterSheepWool.class, net/optifine/entity/model/ModelAdapterShield.class, net/optifine/entity/model/ModelAdapterShulker.class, net/optifine/entity/model/ModelAdapterShulkerBox.class, net/optifine/entity/model/ModelAdapterShulkerBullet.class, net/optifine/entity/model/ModelAdapterSign.class, net/optifine/entity/model/ModelAdapterSilverfish.class, net/optifine/entity/model/ModelAdapterSkeleton.class, net/optifine/entity/model/ModelAdapterSkeletonHorse.class, net/optifine/entity/model/ModelAdapterSlime.class, net/optifine/entity/model/ModelAdapterSlimeOuter.class, net/optifine/entity/model/ModelAdapterSniffer.class, net/optifine/entity/model/ModelAdapterSnowman.class, net/optifine/entity/model/ModelAdapterSpectralArrow.class, net/optifine/entity/model/ModelAdapterSpider.class, net/optifine/entity/model/ModelAdapterSquid.class, net/optifine/entity/model/ModelAdapterStray.class, net/optifine/entity/model/ModelAdapterStrayOuter.class, net/optifine/entity/model/ModelAdapterStrider.class, net/optifine/entity/model/ModelAdapterStriderSaddle.class, net/optifine/entity/model/ModelAdapterTadpole.class, net/optifine/entity/model/ModelAdapterTraderLlama.class, net/optifine/entity/model/ModelAdapterTraderLlamaDecor.class, net/optifine/entity/model/ModelAdapterTrappedChest.class, net/optifine/entity/model/ModelAdapterTrappedChestLarge.class, net/optifine/entity/model/ModelAdapterTrident.class, net/optifine/entity/model/ModelAdapterTropicalFishA.class, net/optifine/entity/model/ModelAdapterTropicalFishB.class, net/optifine/entity/model/ModelAdapterTropicalFishPatternA.class, net/optifine/entity/model/ModelAdapterTropicalFishPatternB.class, net/optifine/entity/model/ModelAdapterTurtle.class, net/optifine/entity/model/ModelAdapterVex.class, net/optifine/entity/model/ModelAdapterVillager.class, net/optifine/entity/model/ModelAdapterVindicator.class, net/optifine/entity/model/ModelAdapterWanderingTrader.class, net/optifine/entity/model/ModelAdapterWarden.class, net/optifine/entity/model/ModelAdapterWindCharge.class, net/optifine/entity/model/ModelAdapterWitch.class, net/optifine/entity/model/ModelAdapterWither.class, net/optifine/entity/model/ModelAdapterWitherArmor.class, net/optifine/entity/model/ModelAdapterWitherSkeleton.class, net/optifine/entity/model/ModelAdapterWitherSkull.class, net/optifine/entity/model/ModelAdapterWolf.class, net/optifine/entity/model/ModelAdapterWolfCollar.class, net/optifine/entity/model/ModelAdapterZoglin.class, net/optifine/entity/model/ModelAdapterZombie.class, net/optifine/entity/model/ModelAdapterZombieHorse.class, net/optifine/entity/model/ModelAdapterZombieVillager.class, net/optifine/entity/model/ModelAdapterZombifiedPiglin.class, net/optifine/entity/model/ModelRendererUtils.class, net/optifine/entity/model/RendererCache.class, net/optifine/entity/model/VirtualEntityRenderer.class, net/optifine/entity/model/anim/EntityVariableBool.class, net/optifine/entity/model/anim/EntityVariableFloat.class, net/optifine/entity/model/anim/IModelRendererVariable.class, net/optifine/entity/model/anim/IModelResolver.class, net/optifine/entity/model/anim/IModelVariable.class, net/optifine/entity/model/anim/IModelVariableBool.class, net/optifine/entity/model/anim/IModelVariableFloat.class, net/optifine/entity/model/anim/IRenderResolver.class, net/optifine/entity/model/anim/ModelResolver.class, net/optifine/entity/model/anim/ModelUpdater.class, net/optifine/entity/model/anim/ModelVariableBool.class, net/optifine/entity/model/anim/ModelVariableFloat.class, net/optifine/entity/model/anim/ModelVariableType.class, net/optifine/entity/model/anim/ModelVariableUpdater.class, net/optifine/entity/model/anim/RenderEntityParameterBool.class, net/optifine/entity/model/anim/RenderEntityParameterFloat$1.class, net/optifine/entity/model/anim/RenderEntityParameterFloat.class, net/optifine/entity/model/anim/RenderResolverEntity.class, net/optifine/entity/model/anim/RenderResolverTileEntity.class, net/optifine/entity/model/anim/RendererVariableFloat.class, net/optifine/expr/ConstantFloat.class, net/optifine/expr/ExpressionFloatArrayCached.class, net/optifine/expr/ExpressionFloatCached.class, net/optifine/expr/ExpressionParser$1.class, net/optifine/expr/ExpressionParser.class, net/optifine/expr/ExpressionType.class, net/optifine/expr/FunctionBool.class, net/optifine/expr/FunctionFloat$1.class, net/optifine/expr/FunctionFloat.class, net/optifine/expr/FunctionFloatArray.class, net/optifine/expr/FunctionType.class, net/optifine/expr/IExpression.class, net/optifine/expr/IExpressionBool.class, net/optifine/expr/IExpressionCached.class, net/optifine/expr/IExpressionFloat.class, net/optifine/expr/IExpressionFloatArray.class, net/optifine/expr/IExpressionResolver.class, net/optifine/expr/IParameters.class, net/optifine/expr/Parameters.class, net/optifine/expr/ParametersVariable.class, net/optifine/expr/ParseException.class, net/optifine/expr/TestExpressions.class, net/optifine/expr/Token.class, net/optifine/expr/TokenParser.class, net/optifine/expr/TokenType$Const.class, net/optifine/expr/TokenType.class, net/optifine/gui/GuiAnimationSettingsOF.class, net/optifine/gui/GuiButtonOF.class, net/optifine/gui/GuiChatOF.class, net/optifine/gui/GuiDetailSettingsOF.class, net/optifine/gui/GuiMessage.class, net/optifine/gui/GuiOptionButtonOF.class, net/optifine/gui/GuiOtherSettingsOF.class, net/optifine/gui/GuiPerformanceSettingsOF.class, net/optifine/gui/GuiQualitySettingsOF.class, net/optifine/gui/GuiQuickInfoOF.class, net/optifine/gui/GuiScreenButtonOF.class, net/optifine/gui/GuiScreenCapeOF.class, net/optifine/gui/GuiScreenOF.class, net/optifine/gui/IOptionControl.class, net/optifine/gui/OptionFullscreenResolution.class, net/optifine/gui/SlotGui.class, net/optifine/gui/TooltipManager.class, net/optifine/gui/TooltipProvider.class, net/optifine/gui/TooltipProviderEnumShaderOptions.class, net/optifine/gui/TooltipProviderOptions.class, net/optifine/gui/TooltipProviderShaderOptions.class, net/optifine/http/FileDownloadThread.class, net/optifine/http/FileUploadThread.class, net/optifine/http/HttpListener.class, net/optifine/http/HttpPipeline$1.class, net/optifine/http/HttpPipeline.class, net/optifine/http/HttpPipelineConnection.class, net/optifine/http/HttpPipelineReceiver.class, net/optifine/http/HttpPipelineRequest.class, net/optifine/http/HttpPipelineSender.class, net/optifine/http/HttpRequest.class, net/optifine/http/HttpResponse.class, net/optifine/http/HttpUtils.class, net/optifine/http/IFileDownloadListener.class, net/optifine/http/IFileUploadListener.class, net/optifine/model/Attachment.class, net/optifine/model/AttachmentPath.class, net/optifine/model/AttachmentPaths.class, net/optifine/model/AttachmentType.class, net/optifine/model/BakedQuadRetextured.class, net/optifine/model/BlockModelCustomizer.class, net/optifine/model/BlockModelUtils.class, net/optifine/model/ListQuadsOverlay.class, net/optifine/model/ModelSprite.class, net/optifine/model/ModelUtils.class, net/optifine/model/QuadBounds$1.class, net/optifine/model/QuadBounds.class, net/optifine/override/ChunkCacheOF.class, net/optifine/override/PlayerControllerOF.class, net/optifine/player/CapeImageBuffer.class, net/optifine/player/CapeUtils.class, net/optifine/player/ModelPlayerItem.class, net/optifine/player/PlayerConfiguration.class, net/optifine/player/PlayerConfigurationParser.class, net/optifine/player/PlayerConfigurationReceiver.class, net/optifine/player/PlayerConfigurations.class, net/optifine/player/PlayerItemModel.class, net/optifine/player/PlayerItemParser.class, net/optifine/player/PlayerItemRenderer.class, net/optifine/player/PlayerItemsLayer.class, net/optifine/reflect/FieldLocatorFixed.class, net/optifine/reflect/FieldLocatorName.class, net/optifine/reflect/FieldLocatorType.class, net/optifine/reflect/FieldLocatorTypes.class, net/optifine/reflect/IFieldLocator.class, net/optifine/reflect/IResolvable.class, net/optifine/reflect/Reflector$1.class, net/optifine/reflect/Reflector.class, net/optifine/reflect/ReflectorClass.class, net/optifine/reflect/ReflectorConstructor.class, net/optifine/reflect/ReflectorField.class, net/optifine/reflect/ReflectorFields.class, net/optifine/reflect/ReflectorForge$1.class, net/optifine/reflect/ReflectorForge.class, net/optifine/reflect/ReflectorMethod.class, net/optifine/reflect/ReflectorRaw.class, net/optifine/reflect/ReflectorResolver.class, net/optifine/render/AabbFrame.class, net/optifine/render/Blender.class, net/optifine/render/BoxVertexPositions.class, net/optifine/render/BufferBuilderCache.class, net/optifine/render/ChunkLayerMap.class, net/optifine/render/ChunkLayerSet.class, net/optifine/render/ChunkVisibility.class, net/optifine/render/ClearVertexBuffersTask.class, net/optifine/render/GLConst.class, net/optifine/render/GlAlphaState.class, net/optifine/render/GlBlendState.class, net/optifine/render/GlCullState.class, net/optifine/render/GlDepthState.class, net/optifine/render/IBufferSourceListener.class, net/optifine/render/ICamera.class, net/optifine/render/LightCacheOF.class, net/optifine/render/MultiTextureBuilder.class, net/optifine/render/MultiTextureData.class, net/optifine/render/MultiTextureRenderer.class, net/optifine/render/QuadVertexPositions.class, net/optifine/render/RenderCache.class, net/optifine/render/RenderEnv.class, net/optifine/render/RenderPositions.class, net/optifine/render/RenderStateManager.class, net/optifine/render/RenderTypes.class, net/optifine/render/RenderUtils.class, net/optifine/render/SpriteRenderData.class, net/optifine/render/TestMath.class, net/optifine/render/VboRange.class, net/optifine/render/VboRegion.class, net/optifine/render/VertexBuilderDummy.class, net/optifine/render/VertexBuilderWrapper.class, net/optifine/render/VertexPosition.class, net/optifine/shaders/BlockAlias.class, net/optifine/shaders/BlockAliases.class, net/optifine/shaders/ClippingHelperDummy.class, net/optifine/shaders/ClippingHelperShadow.class, net/optifine/shaders/ComputeProgram.class, net/optifine/shaders/CustomTexture.class, net/optifine/shaders/CustomTextureLocation.class, net/optifine/shaders/CustomTextureRaw$1.class, net/optifine/shaders/CustomTextureRaw.class, net/optifine/shaders/DefaultShaders.class, net/optifine/shaders/DrawBuffers.class, net/optifine/shaders/EntityAliases.class, net/optifine/shaders/FixedFramebuffer.class, net/optifine/shaders/FlipTextures.class, net/optifine/shaders/GlState.class, net/optifine/shaders/HFNoiseTexture.class, net/optifine/shaders/ICustomTexture.class, net/optifine/shaders/IShaderPack.class, net/optifine/shaders/ITextureFormat.class, net/optifine/shaders/ItemAliases.class, net/optifine/shaders/Iterator3d.class, net/optifine/shaders/IteratorAxis.class, net/optifine/shaders/IteratorRenderChunks.class, net/optifine/shaders/MultiTexID.class, net/optifine/shaders/Program.class, net/optifine/shaders/ProgramStack.class, net/optifine/shaders/ProgramStage.class, net/optifine/shaders/ProgramUtils.class, net/optifine/shaders/Programs.class, net/optifine/shaders/RenderStage.class, net/optifine/shaders/SMCLog.class, net/optifine/shaders/SMath.class, net/optifine/shaders/SVertexAttrib.class, net/optifine/shaders/SVertexBuilder.class, net/optifine/shaders/SVertexFormat.class, net/optifine/shaders/ShaderPackDefault.class, net/optifine/shaders/ShaderPackFolder.class, net/optifine/shaders/ShaderPackNone.class, net/optifine/shaders/ShaderPackZip.class, net/optifine/shaders/ShaderProgramData.class, net/optifine/shaders/ShaderUtils.class, net/optifine/shaders/Shaders$1.class, net/optifine/shaders/Shaders.class, net/optifine/shaders/ShadersCompatibility$1.class, net/optifine/shaders/ShadersCompatibility.class, net/optifine/shaders/ShadersFramebuffer.class, net/optifine/shaders/ShadersRender.class, net/optifine/shaders/ShadersTex.class, net/optifine/shaders/ShadersTextureType.class, net/optifine/shaders/ShadowFrustum.class, net/optifine/shaders/ShadowUtils.class, net/optifine/shaders/SimpleShaderTexture.class, net/optifine/shaders/TextureFormatLabPbr.class, net/optifine/shaders/config/EnumShaderOption.class, net/optifine/shaders/config/ExpressionShaderOptionSwitch.class, net/optifine/shaders/config/HeaderLine.class, net/optifine/shaders/config/HeaderLineFunction.class, net/optifine/shaders/config/HeaderLineText.class, net/optifine/shaders/config/HeaderLineUniform.class, net/optifine/shaders/config/HeaderLineVariable.class, net/optifine/shaders/config/MacroExpressionResolver.class, net/optifine/shaders/config/MacroProcessor.class, net/optifine/shaders/config/MacroState.class, net/optifine/shaders/config/Property.class, net/optifine/shaders/config/PropertyDefaultFastFancyOff.class, net/optifine/shaders/config/PropertyDefaultTrueFalse.class, net/optifine/shaders/config/RenderScale.class, net/optifine/shaders/config/ScreenShaderOptions.class, net/optifine/shaders/config/ShaderLine$Type.class, net/optifine/shaders/config/ShaderLine.class, net/optifine/shaders/config/ShaderMacro.class, net/optifine/shaders/config/ShaderMacros$1.class, net/optifine/shaders/config/ShaderMacros.class, net/optifine/shaders/config/ShaderOption.class, net/optifine/shaders/config/ShaderOptionProfile.class, net/optifine/shaders/config/ShaderOptionResolver.class, net/optifine/shaders/config/ShaderOptionRest.class, net/optifine/shaders/config/ShaderOptionScreen.class, net/optifine/shaders/config/ShaderOptionSwitch.class, net/optifine/shaders/config/ShaderOptionSwitchConst.class, net/optifine/shaders/config/ShaderOptionVariable.class, net/optifine/shaders/config/ShaderOptionVariableConst.class, net/optifine/shaders/config/ShaderPackParser$1.class, net/optifine/shaders/config/ShaderPackParser.class, net/optifine/shaders/config/ShaderParser.class, net/optifine/shaders/config/ShaderProfile.class, net/optifine/shaders/config/ShaderType.class, net/optifine/shaders/gui/GuiButtonDownloadShaders.class, net/optifine/shaders/gui/GuiButtonEnumShaderOption$1.class, net/optifine/shaders/gui/GuiButtonEnumShaderOption.class, net/optifine/shaders/gui/GuiButtonShaderOption.class, net/optifine/shaders/gui/GuiShaderOptions.class, net/optifine/shaders/gui/GuiShaders$1.class, net/optifine/shaders/gui/GuiShaders.class, net/optifine/shaders/gui/GuiSliderShaderOption.class, net/optifine/shaders/gui/GuiSlotShaders.class, net/optifine/shaders/uniform/CustomUniform.class, net/optifine/shaders/uniform/CustomUniforms.class, net/optifine/shaders/uniform/ShaderExpressionResolver.class, net/optifine/shaders/uniform/ShaderParameterBool.class, net/optifine/shaders/uniform/ShaderParameterFloat.class, net/optifine/shaders/uniform/ShaderParameterIndexed.class, net/optifine/shaders/uniform/ShaderUniform1f.class, net/optifine/shaders/uniform/ShaderUniform1i.class, net/optifine/shaders/uniform/ShaderUniform2f.class, net/optifine/shaders/uniform/ShaderUniform2i.class, net/optifine/shaders/uniform/ShaderUniform3f.class, net/optifine/shaders/uniform/ShaderUniform4f.class, net/optifine/shaders/uniform/ShaderUniform4i.class, net/optifine/shaders/uniform/ShaderUniformBase.class, net/optifine/shaders/uniform/ShaderUniformM3.class, net/optifine/shaders/uniform/ShaderUniformM4.class, net/optifine/shaders/uniform/ShaderUniforms.class, net/optifine/shaders/uniform/Smoother.class, net/optifine/shaders/uniform/UniformType.class, net/optifine/texture/BlenderLinear.class, net/optifine/texture/BlenderSplit.class, net/optifine/texture/ColorBlenderAlpha.class, net/optifine/texture/ColorBlenderKeepAlpha.class, net/optifine/texture/ColorBlenderLabPbrSpecular.class, net/optifine/texture/ColorBlenderLinear.class, net/optifine/texture/ColorBlenderSeparate.class, net/optifine/texture/IBlender.class, net/optifine/texture/IColorBlender.class, net/optifine/texture/InternalFormat.class, net/optifine/texture/PixelFormat.class, net/optifine/texture/PixelType.class, net/optifine/texture/SpriteSourceCollector.class, net/optifine/texture/TextureType.class, net/optifine/util/ArrayCache.class, net/optifine/util/ArrayCaches.class, net/optifine/util/ArrayUtils.class, net/optifine/util/BiomeCategory.class, net/optifine/util/BiomeUtils.class, net/optifine/util/BlockUtils$1.class, net/optifine/util/BlockUtils$RenderSideCacheKey.class, net/optifine/util/BlockUtils.class, net/optifine/util/BufferUtil$1.class, net/optifine/util/BufferUtil.class, net/optifine/util/CacheLocal.class, net/optifine/util/CacheLocalByte.class, net/optifine/util/CacheObjectArray.class, net/optifine/util/ChunkUtils.class, net/optifine/util/CollectionUtils.class, net/optifine/util/ColorSamplerM.class, net/optifine/util/CompactArrayList.class, net/optifine/util/CompareUtils.class, net/optifine/util/ComponentUtils.class, net/optifine/util/CompoundIntKey.class, net/optifine/util/CompoundKey.class, net/optifine/util/CounterInt.class, net/optifine/util/DebugUtils.class, net/optifine/util/DisplayModeComparator.class, net/optifine/util/DummyList$DummyIterator.class, net/optifine/util/DummyList$DummyListIterator.class, net/optifine/util/DummyList.class, net/optifine/util/DynamicDimension.class, net/optifine/util/Either.class, net/optifine/util/EnchantmentUtils.class, net/optifine/util/EntityTypeUtils.class, net/optifine/util/EntityUtils.class, net/optifine/util/ExecutorProxy.class, net/optifine/util/FastArrayList.class, net/optifine/util/FileUtils.class, net/optifine/util/FlagEvent.class, net/optifine/util/FontUtils$1.class, net/optifine/util/FontUtils.class, net/optifine/util/FrameEvent.class, net/optifine/util/GlUtils.class, net/optifine/util/GpuFrameTimer$TimerQuery.class, net/optifine/util/GpuFrameTimer.class, net/optifine/util/GpuMemory.class, net/optifine/util/GuiPoint.class, net/optifine/util/GuiRect.class, net/optifine/util/GuiUtils.class, net/optifine/util/IntArray.class, net/optifine/util/IntExpiringCache$Wrapper.class, net/optifine/util/IntExpiringCache.class, net/optifine/util/IntegratedServerUtils.class, net/optifine/util/ItemUtils.class, net/optifine/util/IteratorCache$IteratorReadOnly.class, net/optifine/util/IteratorCache$IteratorReusable.class, net/optifine/util/IteratorCache.class, net/optifine/util/Json.class, net/optifine/util/KeyUtils.class, net/optifine/util/LineBuffer$Itr.class, net/optifine/util/LineBuffer.class, net/optifine/util/LinkedList$1.class, net/optifine/util/LinkedList$Node.class, net/optifine/util/LinkedList.class, net/optifine/util/LinkedListTest.class, net/optifine/util/LockCounter.class, net/optifine/util/MathUtils.class, net/optifine/util/MathUtilsTest$OPER.class, net/optifine/util/MathUtilsTest.class, net/optifine/util/MemoryMonitor.class, net/optifine/util/NativeMemory$1.class, net/optifine/util/NativeMemory$2.class, net/optifine/util/NativeMemory$3.class, net/optifine/util/NativeMemory.class, net/optifine/util/NumUtils.class, net/optifine/util/PacketRunnable.class, net/optifine/util/PairInt.class, net/optifine/util/PotionUtils.class, net/optifine/util/PropertiesOrdered.class, net/optifine/util/RandomUtils.class, net/optifine/util/RenderChunkUtils.class, net/optifine/util/ResUtils.class, net/optifine/util/SingleIterable.class, net/optifine/util/SmoothFloat.class, net/optifine/util/StaticMap.class, net/optifine/util/StaticMultiMap.class, net/optifine/util/StrUtils.class, net/optifine/util/TestBuffers.class, net/optifine/util/TextureUtils$1.class, net/optifine/util/TextureUtils$2.class, net/optifine/util/TextureUtils$3.class, net/optifine/util/TextureUtils.class, net/optifine/util/TickableTexture.class, net/optifine/util/TileEntityUtils.class, net/optifine/util/TimedEvent.class, net/optifine/util/UnsafeUtils.class, net/optifine/util/VideoModeComparator.class, net/optifine/util/WorldUtils.class
+	at net.neoforged.art.internal.RenamerImpl.run(RenamerImpl.java:207) ~[paper-1.21.3.jar:?]
+	at net.neoforged.art.internal.RenamerImpl.run(RenamerImpl.java:95) ~[paper-1.21.3.jar:?]
+	at io.papermc.paper.pluginremap.PluginRemapper.lambda$remap$7(PluginRemapper.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	... 4 more
+[22:07:40] [ServerMain/INFO]: [PluginInitializerManager] Initialized 21 plugins
+[22:07:40] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - nightcore (2.7.5.2)
+[22:07:40] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (20):
+ - AntiPopup (11), EconomyBridge (1.2.0), Essentials (2.21.0), ExcellentCrates (6.2.0), ExcellentEnchants (4.3.3), ItemEdit (3.7.0), LuckPerms (5.4.164), Multiverse-Core (4.3.16), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0), ServersNPC (5.1), Shopkeepers (2.23.5), SkinsRestorer (15.6.3), SmoothTimber (1.27.5), SternalBoard (2.3.2), TerraformGenerator (19.1.1), Vault (1.7.3-b131), WorldEdit (7.3.12+7126-e57b6b6), WorldGuard (7.0.13-beta-1+2f13ae0), packetevents (2.8.1+023a0da61-SNAPSHOT)
+[22:07:43] [ServerMain/WARN]: resource-pack-id missing, using default of 159c73ed-04e2-3cad-81dd-576e5f77128a
+[22:07:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:07:45] [ServerMain/INFO]: Loaded 1337 recipes
+[22:07:45] [ServerMain/INFO]: Loaded 1448 advancements
+[22:07:45] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[22:07:45] [Server thread/INFO]: Loading properties
+[22:07:45] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[22:07:46] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:07:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:07:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:07:46] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:07:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:07:47] [Server thread/INFO]: Default game type: SURVIVAL
+[22:07:47] [Server thread/INFO]: Generating keypair
+[22:07:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:07:47] [Server thread/INFO]: Using epoll channel type
+[22:07:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:07:47] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:07:47] [Server thread/INFO]: [nightcore] Server version detected as Paper 1.21.3. Using paper-bridge.
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[22:07:48] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/UltraLand/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
+[22:07:48] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.164
+[22:07:48] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[22:07:48] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.12+7126-e57b6b6
+[22:07:49] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@470dd2db]
+[22:07:49] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[22:07:49] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
+[22:07:49] [Server thread/INFO]: [nightcore] Loading server plugin nightcore v2.7.5.2
+[22:07:49] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13-beta-1+2f13ae0
+[22:07:49] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.16
+[22:07:49] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[22:07:49] [Server thread/INFO]: [packetevents] Loading server plugin packetevents v2.8.1+023a0da61-SNAPSHOT
+[22:07:50] [Server thread/INFO]: [EconomyBridge] Loading server plugin EconomyBridge v1.2.0
+[22:07:50] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.5
+[22:07:50] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (517 ms).
+[22:07:50] [Server thread/INFO]: [Shopkeepers] Compatibility provider loaded: 1_21_R3
+[22:07:50] [Server thread/INFO]: [Shopkeepers] Loading config.
+[22:07:50] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[22:07:50] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[22:07:50] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[22:07:50] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0
+[22:07:50] [Server thread/INFO]: [SternalBoard] Loading server plugin SternalBoard v2.3.2
+[22:07:51] [Server thread/INFO]: [ExcellentEnchants] Loading server plugin ExcellentEnchants v4.3.3
+[22:07:51] [Server thread/INFO]: [ExcellentCrates] Loading server plugin ExcellentCrates v6.2.0
+[22:07:51] [Server thread/INFO]: [AntiPopup] Loading server plugin AntiPopup v11
+[22:07:51] [Server thread/INFO]: [AntiPopup] Loaded PacketEvents.
+[22:07:51] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.3
+[22:07:51] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v19.1.1
+[22:07:51] [Server thread/INFO]: [ServersNPC] Loading server plugin ServersNPC v5.1
+[22:07:51] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.0
+[22:07:51] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.5
+[22:07:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:07:51] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.164
+[22:07:51] [Server thread/INFO]:         __    
+[22:07:51] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.164
+[22:07:51] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:07:51] [Server thread/INFO]: 
+[22:07:51] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:07:52] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:07:52] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:07:52] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:07:52] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1209ms)
+[22:07:52] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[22:07:52] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:07:52] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:07:52] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[22:07:52] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[22:07:52] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.12+7126-e57b6b6
+[22:07:52] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[22:07:52] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[22:07:52] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_3.PaperweightAdapter as the Bukkit adapter
+[22:07:54] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[22:07:54] [Server thread/INFO]: [nightcore] Enabling nightcore v2.7.5.2
+[22:07:54] [Server thread/INFO]: [nightcore] Found permissions provider: LuckPerms
+[22:07:54] [Server thread/INFO]: [nightcore] Found economy provider: EssentialsX Economy
+[22:07:54] [Server thread/INFO]: [nightcore] Found chat provider: LuckPerms
+[22:07:54] [Server thread/INFO]: [nightcore] Time zone set as Etc/UTC
+[22:07:54] [Server thread/INFO]: [nightcore] Plugin loaded in 123 ms!
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Enabling EconomyBridge v1.2.0
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Powered by nightcore
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Registered 'dummy' item handler.
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Registered 'excellentcrates' item handler.
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Vault detected! Loading currency...
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Currency registered: 'vault'.
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Currency registered: 'xp_points'.
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Currency registered: 'xp_level'.
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Currency registered: 'gold'.
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Currency registered: 'diamond'.
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Currency registered: 'emerald'.
+[22:07:54] [Server thread/INFO]: [EconomyBridge] Plugin loaded in 30 ms!
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Enabling ExcellentEnchants v4.3.3
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Powered by nightcore
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Loaded 4 rarities.
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: auto_reel
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: double_catch
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: seasoned_angler
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: survivalist
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_drowned
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: river_master
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: blast_mining
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_breaking
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_misfortune
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: divine_touch
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: haste
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: lucky_miner
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: replanter
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: silk_chest
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: smelter
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: telekinesis
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: treasure_hunter
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: tunnel
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: veinminer
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bane_of_netherspawn
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: blindness
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: confusion
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cutter
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_death
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: decapitator
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: double_strike
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: exhaust
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: exp_hunter
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ice_aspect
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: infernus
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: nimble
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: paralyze
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cure
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: rage
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: rocket
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: scavenger
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: surprise
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: swiper
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: temper
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: thrifty
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: thunder
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: vampire
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: venom
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: village_defender
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: wither
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: aquaman
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bunny_hop
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: cold_steel
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ice_shield
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: elemental_protection
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: fire_shield
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: flame_walker
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: hardened
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: night_vision
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: regrowth
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: saturation
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: self_destruction
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: rebound
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: stopping_force
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: sonic
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: bomber
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: confusing_arrows
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: dragonfire_arrows
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: electrified_arrows
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ender_bow
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: explosive_arrows
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: lingering
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: flare
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: ghast
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: hover
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: sniper
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: poisoned_arrows
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: vampiric_arrows
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: withered_arrows
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: darkness_arrows
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: darkness_cloak
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_fragility
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: curse_of_mediocrity
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: soulbound
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Registered enchantment: restore
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Enchantments Registered: 80
+[22:07:54] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: excellentenchants [4.3.3]
+[22:07:54] [Server thread/INFO]: [ExcellentEnchants] Plugin loaded in 379 ms!
+[22:07:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.3
+[22:07:55] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[22:07:55] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:07:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.6.3]
+[22:07:55] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[22:07:55] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v19.1.1
+[22:07:55] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[22:07:55] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[22:07:55] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.3, number: 21.3
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.3
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eb6dc6
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:07:55] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:07:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:07:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:07:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:07:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:07:56] [Server thread/INFO]: Preparing level "world"
+[22:07:56] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
+[22:07:56] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[22:07:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:07:57] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[22:07:57] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 344.1ms
+[22:07:57] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:57] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:58] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:58] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:58] [Server thread/INFO]: Time elapsed: 1622 ms
+[22:07:58] [Server thread/INFO]: [TerraformGenerator] world loaded.
+[22:07:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:07:58] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:58] [Server thread/INFO]: Time elapsed: 202 ms
+[22:07:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:07:58] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:58] [Server thread/INFO]: Time elapsed: 115 ms
+[22:07:58] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13-beta-1+2f13ae0
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[22:07:59] [Server thread/INFO]: [WorldGuard] Loading region data...
+[22:07:59] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.16
+[22:07:59] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.16" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[22:07:59] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[22:07:59] [Server thread/INFO]: Preparing start region for dimension minecraft:etc
+[22:07:59] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:59] [Server thread/INFO]: Time elapsed: 273 ms
+[22:07:59] [Server thread/INFO]: [WorldGuard] (etc) TNT ignition is PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (etc) Lighters are PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (etc) Lava fire is PERMITTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] (etc) Fire spread is UNRESTRICTED.
+[22:07:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'etc'
+[22:07:59] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[22:07:59] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[22:07:59] [Server thread/INFO]: [Multiverse-Core] Version 4.3.16 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[22:07:59] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[22:08:00] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:08:00] [Server thread/INFO]: [packetevents] Enabling packetevents v2.8.1+023a0da61-SNAPSHOT
+[22:08:00] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
+[22:08:00] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.5
+[22:08:00] [Server thread/INFO]: [Shopkeepers] Loading the data of 2 shopkeepers ...
+[22:08:00] [packetevents-update-check-thread/INFO]: [packetevents] You are running a development build of PacketEvents. Your build: (2.8.1+023a0da61-SNAPSHOT) | Latest release: (2.8.0)
+[22:08:00] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[22:08:00] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[22:08:00] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:08:00] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[22:08:00] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[22:08:00] [Server thread/INFO]: [Essentials] Using locale en
+[22:08:01] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:08:01] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:08:01] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[22:08:01] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[22:08:01] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.2
+[22:08:01] [Server thread/INFO]: [INFO] Starting SternalBoard Plugin
+[22:08:01] [Server thread/INFO]: [ExcellentCrates] Enabling ExcellentCrates v6.2.0
+[22:08:01] [Server thread/INFO]: [ExcellentCrates] Powered by nightcore
+[22:08:01] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[22:08:01] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@15cee5ec
+[22:08:01] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[22:08:01] [Server thread/INFO]: [ExcellentCrates] Loaded 7 crate openings.
+[22:08:01] [Server thread/INFO]: [ExcellentCrates] Loaded 5 crate keys.
+[22:08:01] [Server thread/INFO]: [ExcellentCrates] Loaded 3 rarities!
+[22:08:01] [Server thread/INFO]: [ExcellentCrates] Loaded 5 crates.
+[22:08:01] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:08:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: excellentcrates [6.2.0]
+[22:08:01] [Server thread/INFO]: [ExcellentCrates] Plugin loaded in 399 ms!
+[22:08:01] [Server thread/INFO]: [AntiPopup] Enabling AntiPopup v11
+[22:08:01] [Server thread/INFO]: [AntiPopup] Config enabled.
+[22:08:01] [Server thread/INFO]: [AntiPopup] Initiated PacketEvents.
+[22:08:01] [Server thread/INFO]: [AntiPopup] Hooked on 1.21.3
+[22:08:01] [Server thread/INFO]: [AntiPopup] Commands registered.
+[22:08:01] [Server thread/INFO]: [AntiPopup] Logger filter enabled.
+[22:08:01] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.1
+[22:08:01] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.0
+[22:08:01] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[22:08:02] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[22:08:02] [Server thread/INFO]: [ItemEdit] Hooking into Vault
+[22:08:02] [Server thread/INFO]: [ItemEdit] Hooking into PlaceHolderAPI
+[22:08:02] [Server thread/INFO]: [ItemEdit] placeholders:
+[22:08:02] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[22:08:02] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[22:08:02] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[22:08:02] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[22:08:02] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[22:08:02] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[22:08:02] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[22:08:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[22:08:02] [Server thread/INFO]: [ItemEdit] # Enabled (took 150 ms)
+[22:08:02] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.5
+[22:08:02] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.3 (Core v1_21x)
+[22:08:02] [Server thread/INFO]: SmoothTimber || Trying to enable compatibility addon 'PlaceholderApi' for plugin 'PlaceholderAPI'...
+[22:08:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: smoothtimber [1.27.5]
+[22:08:02] [Server thread/INFO]: SmoothTimber || Successfully enabled compatbility addon 'PlaceholderApi' for plugin 'PlaceholderAPI'...
+[22:08:02] [Server thread/INFO]: SmoothTimber || Trying to enable compatibility addon 'WorldGuard' for plugin 'WorldGuard'...
+[22:08:02] [Server thread/INFO]: SmoothTimber || Successfully enabled compatbility addon 'WorldGuard' for plugin 'WorldGuard'...
+[22:08:02] [Server thread/INFO]: [spark] Starting background profiler...
+[22:08:02] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:08:02] [Server thread/INFO]: Done preparing level "world" (6.635s)
+[22:08:02] [Server thread/INFO]: Running delayed init tasks
+[22:08:02] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[22:08:02] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] Checking for Updates ... 
+[22:08:02] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[22:08:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[22:08:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[22:08:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: bungee [2.3]
+[22:08:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[22:08:02] [Server thread/INFO]: 4 placeholder hook(s) registered!
+[22:08:02] [Server thread/INFO]: Done (26.358s)! For help, type "help"
+[22:08:03] [Craft Scheduler Thread - 0 - Vault/INFO]: [Vault] No new version available
+[22:08:13] [User Authenticator #0/INFO]: UUID of player ItsSoulTime is 9f68d785-ad11-3bab-bb36-393a7edbfffb
+[22:08:21] [Server thread/INFO]: ItsSoulTime joined the game
+[22:08:21] [Server thread/INFO]: ItsSoulTime[/127.207.40.132:38389] logged in with entity id 72 at ([etc]21.33199819684196, 205.0, -3.565499004999537)
+[22:08:41] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode creative
+[22:13:12] [Server thread/INFO]: ItsSoulTime issued server command: /shop
+[22:14:26] [Server thread/INFO]: ItsSoulTime issued server command: /sb toggle
+[22:14:31] [Server thread/INFO]: ItsSoulTime issued server command: /sb help
+[22:14:36] [Server thread/INFO]: ItsSoulTime issued server command: /sternalboard toggle
+[22:14:54] [Async Chat Thread - #0/INFO]: <ItsSoulTime> dsadwa
+[22:16:15] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &7&lSilverine &8&lBlade
+[22:17:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename Divine Reaper ´+
