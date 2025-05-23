@@ -521,3 +521,18 @@ sada<--[HERE]
 [23:27:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 7
 [23:27:40] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
 [23:27:48] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 6
+[23:28:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1
+[23:28:21] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant Barrido 6
+[23:28:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 6
+[23:28:58] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 7
+[23:29:29] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &d&lMuramasa
+[23:29:54] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:31:07] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant scavenger 4
+[23:31:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[23:31:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &dSe ve que esta katana tiene para ser mas afortunado al matar
+[23:33:26] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &1&lSculk &8&lSword
+[23:35:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 8
+[23:35:33] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 6
+[23:36:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending
+[23:37:37] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
+[23:37:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5

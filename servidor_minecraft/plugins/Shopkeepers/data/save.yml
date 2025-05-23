@@ -1458,7 +1458,18 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Muramasa"'
+          display-name: '{"text":"","extra":[{"text":"Muramasa","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Se
+            ve que esta katana tiene para ser mas afortunado al matar","italic":false,"color":"light_purple","bold":false}]}'
+          enchants:
+            minecraft:looting: 7
+            minecraft:mending: 1
+            minecraft:scavenger: 4
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 6
+            minecraft:unbreaking: 6
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
