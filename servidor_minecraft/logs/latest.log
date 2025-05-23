@@ -536,3 +536,19 @@ sada<--[HERE]
 [23:36:27] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending
 [23:37:37] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
 [23:37:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 5
+[23:38:15] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant exp_hunter 3
+[23:38:21] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[23:38:55] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant venom 2
+[23:39:12] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[23:40:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &7Esta espada parece que da más exp y parece
+[23:41:23] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7Que Tendra chances de meter veneno
+[23:42:43] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 7
+[23:42:49] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 6
+[23:42:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 4
+[23:43:43] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending
+[23:44:29] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
+[23:45:38] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &1&lSculk &8&lScythe
+[23:45:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &1&lSculk &8&lScythe
+[23:46:31] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 7 add_number mainhand
+[23:46:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+dsa<--[HERE]
