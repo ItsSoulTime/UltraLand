@@ -900,7 +900,35 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Silverine Blade"'
+          display-name: '{"text":"","extra":[{"text":"Silverine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":true},{"text":"Blade","italic":false,"color":"dark_gray","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Pequeña Espada parece que la usaria un esqueleto wither","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que es rapida , ¿Metera el efecto
+            wither a tus enemigos?","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:looting: 3
+            minecraft:mending: 1
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 4
+            minecraft:unbreaking: 5
+            minecraft:wither: 3
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:e22f6513-5dfe-40f9-a4bb-8c2dcc010c37
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:834ce503-47e1-4f0a-ba1d-0f02f4449bc3
+          ItemFlags:
+          - HIDE_ADDITIONAL_TOOLTIP
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082

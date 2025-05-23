@@ -401,3 +401,24 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [22:14:54] [Async Chat Thread - #0/INFO]: <ItsSoulTime> dsadwa
 [22:16:15] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &7&lSilverine &8&lBlade
 [22:17:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename Divine Reaper ´+
+[22:18:24] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 7
+[22:18:37] [Server thread/INFO]: ItsSoulTime issued server command: /ie hideall
+[22:18:53] [Server thread/INFO]: ItsSoulTime issued server command: /ie hidetooltip false
+[22:19:00] [Server thread/INFO]: ItsSoulTime issued server command: /ie hide
+[22:19:08] [Server thread/INFO]: ItsSoulTime issued server command: /ie hide enchants false
+[22:19:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 5
+[22:19:52] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending
+[22:20:01] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 4
+[22:20:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie hide attributes false
+[22:20:33] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant wither -1
+[22:20:39] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants
+[22:20:41] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[22:22:20] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
+[22:23:03] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant wither 3
+[22:24:11] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 3
+[22:24:30] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[22:25:01] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &7Esta Pequeña Espada parece que la usaria un esqueleto wither
+[22:25:44] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7Se ve que es rapida , ¿Metera el efecto wither a tus enemigos?
+[22:26:14] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2 add_number mainhand
+[22:26:40] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 7 add_number mainhand
+[22:27:34] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &7&lMasamune
