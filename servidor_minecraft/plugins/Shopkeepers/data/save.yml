@@ -590,7 +590,35 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Floral Longsword"'
+          display-name: '{"text":"","extra":[{"text":"Floral ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Longsword","italic":false,"color":"red","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Una
+            Arma con una Hermosa Flor en el Mango","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que es algo Grande y Lenta al ataque","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Pero Tambien se ve que pega buenos golpes","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que envenena , ¿La probaras ahora
+            mismo?","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 6
+            minecraft:unbreaking: 5
+            minecraft:venom: 4
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -3.3
+              slot: mainhand
+              operation: 0
+              key: minecraft:de3e0825-4dda-4deb-aa9b-8807ad6f7f12
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 10.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:f6d4993c-5844-4722-aaaa-a17a7b0552a9
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -686,40 +714,11 @@ data-version: 3|2|4082
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
-        type: QUARTZ
-        amount: 16
+        type: BEDROCK
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
-          lore:
-          - '""'
-          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          enchants:
-            minecraft:unbreaking: 1
-          ItemFlags:
-          - HIDE_ENCHANTS
-          - HIDE_ADDITIONAL_TOOLTIP
-          enchantment-glint-override: true
-      item2:
-        ==: org.bukkit.inventory.ItemStack
-        v: 4082
-        type: NETHERITE_SWORD
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
-          lore:
-          - '""'
-          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
-          enchants:
-            minecraft:knockback: 2
-            minecraft:looting: 3
-            minecraft:sharpness: 5
-            minecraft:sweeping_edge: 3
-            minecraft:unbreaking: 3
+          display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
@@ -737,22 +736,4 @@ data-version: 3|2|4082
           ==: ItemMeta
           meta-type: UNSPECIFIC
           display-name: '{"text":"","extra":[{"text":"No disponible","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
-      item2:
-        ==: org.bukkit.inventory.ItemStack
-        v: 4082
-        type: NETHERITE_SWORD
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
-          lore:
-          - '""'
-          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
-          enchants:
-            minecraft:knockback: 2
-            minecraft:looting: 3
-            minecraft:sharpness: 5
-            minecraft:sweeping_edge: 3
-            minecraft:unbreaking: 3
   snapshots: []
