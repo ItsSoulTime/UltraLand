@@ -552,3 +552,26 @@ sada<--[HERE]
 [23:46:31] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 7 add_number mainhand
 [23:46:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
 dsa<--[HERE]
+[23:48:02] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2.3
+[23:48:15] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[23:48:18] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2.3 add_number mainhand
+[23:48:53] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant venom 2
+[23:48:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant exp_hunter 3
+[23:50:34] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &7Esta Guadaña parece que da más exp y parece
+[23:50:45] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7Que Tendra chances de meter veneno
+[23:51:58] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤
+[23:52:19] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 1
+[23:52:21] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤
+[23:54:36] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &7Esta "Espada" Bastante grande parece ser fuerte pero lenta
+[23:55:00] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &7Se Ve que ganas mas EXP y Tendras chances de meter veneno
+[23:55:10] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 1
+[23:55:19] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 0
+[23:55:22] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 0 ds
+[23:55:29] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 1
+[23:55:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant exp_hunter 3
+[23:56:04] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants enchant venom 2
+[23:56:13] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 6
+[23:56:22] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 4
+[23:56:32] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 9
+[23:56:45] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 6
+[23:56:53] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 1

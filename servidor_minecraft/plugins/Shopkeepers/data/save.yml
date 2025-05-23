@@ -1425,7 +1425,32 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Sculk Scythe"'
+          display-name: '{"text":"","extra":[{"text":"Sculk ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_blue","bold":true},{"text":"Scythe","italic":false,"color":"dark_gray","bold":true}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Guadaña parece que da más exp y parece","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Que Tendra chances de meter veneno","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:exp_hunter: 3
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 4
+            minecraft:unbreaking: 6
+            minecraft:venom: 2
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:2beed3c6-f960-4100-9e39-d48fadd39160
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.3
+              slot: mainhand
+              operation: 0
+              key: minecraft:5e5930aa-0f97-4797-90e2-65e7647452ce
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
