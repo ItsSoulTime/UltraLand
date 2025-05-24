@@ -436,3 +436,20 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [14:19:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant village_defender 4
 [14:19:48] [Server thread/INFO]: ItsSoulTime issued server command: /eenchants list
 [14:20:20] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant paralyze 1
+[14:21:33] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 2.3 add_number mainhand
+[14:22:28] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 7 add_number mainhand
+[14:23:01] [Server thread/INFO]: Named entity Zombie['Test'/106, uuid='845111c8-6043-407b-8624-7f5b968f4c80', l='ServerLevel[etc]', x=9.67, y=205.00, z=7.06, cpos=[0, 0], tl=160, v=true] died: Test was slain by ItsSoulTime
+[14:23:11] [Server thread/INFO]: Named entity Zombie['Test'/110, uuid='d51c596b-227b-41ac-94c0-7eb64fe4d47a', l='ServerLevel[etc]', x=18.08, y=205.00, z=10.70, cpos=[1, 0], tl=152, v=true] died: Test was slain by ItsSoulTime
+[14:23:16] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 5
+[14:23:25] [Server thread/INFO]: Named entity Zombie['Test'/114, uuid='77e6d2fc-b424-4c3c-8f7a-9a70999961f9', l='ServerLevel[etc]', x=24.34, y=205.00, z=10.19, cpos=[1, 0], tl=103, v=true] died: Test was slain by ItsSoulTime
+[14:23:59] [Server thread/INFO]: Named entity Zombie['Test'/124, uuid='c630e95d-291b-4f3a-947f-47c09cc69af1', l='ServerLevel[etc]', x=13.91, y=205.00, z=-2.39, cpos=[0, -1], tl=50, v=true] died: Test was slain by ItsSoulTime using [Divine Reaper]
+[14:24:24] [Server thread/INFO]: Named entity Zombie['Test'/148, uuid='32973e6c-c2d2-430f-85ea-5aacf6c7c885', l='ServerLevel[etc]', x=22.53, y=205.00, z=9.35, cpos=[1, 0], tl=55, v=true] died: Test was slain by ItsSoulTime using [Divine Reaper]
+[14:24:31] [Server thread/INFO]: Named entity Zombie['Test'/158, uuid='cf849073-9f26-4fe1-b9e6-0c2f9eecb479', l='ServerLevel[etc]', x=11.56, y=205.00, z=9.50, cpos=[0, 0], tl=48, v=true] died: Test was slain by ItsSoulTime using [Divine Reaper]
+[14:24:35] [Server thread/INFO]: Named entity Zombie['Test'/163, uuid='fed843aa-fe26-45f9-b851-646ba26d9356', l='ServerLevel[etc]', x=9.40, y=205.00, z=6.89, cpos=[0, 0], tl=47, v=true] died: Test was slain by ItsSoulTime using [Divine Reaper]
+[14:24:39] [Server thread/INFO]: Named entity Zombie['Test'/168, uuid='844389a9-b04f-4076-871c-12b2d635a6ed', l='ServerLevel[etc]', x=15.50, y=205.00, z=5.50, cpos=[0, 0], tl=42, v=true] died: Test was slain by ItsSoulTime using [Divine Reaper]
+[14:25:15] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 8
+[14:25:37] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[14:26:11] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &eEsta Guadaña Divina tiene bastante fuerza y un poco
+[14:26:36] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eDe Versatilidad en ella , parece que a los invasores les
+[14:26:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eDaria Miedo enfrentarse a alguien con ella
+[14:29:35] [Server thread/INFO]: ItsSoulTime issued server command: /mv spawn
