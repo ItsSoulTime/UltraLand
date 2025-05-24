@@ -1379,7 +1379,22 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Sculk Cleaver"'
+          display-name: '{"text":"","extra":[{"text":"Sculk ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_blue","bold":true},{"text":"Cleaver","italic":false,"color":"dark_gray","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true}]}'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            \"Espada\" Bastante grande parece ser fuerte pero lenta","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se Ve que ganas mas EXP y Tendras chances
+            de meter veneno","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          enchants:
+            minecraft:exp_hunter: 3
+            minecraft:looting: 4
+            minecraft:mending: 1
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 6
+            minecraft:unbreaking: 6
+            minecraft:venom: 2
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -1505,7 +1520,7 @@ data-version: 3|2|4082
             minecraft:looting: 7
             minecraft:mending: 1
             minecraft:scavenger: 4
-            minecraft:sharpness: 7
+            minecraft:sharpness: 8
             minecraft:sweeping_edge: 6
             minecraft:unbreaking: 6
       item1:
@@ -1599,7 +1614,25 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Abominable Scythe"'
+          display-name: '{"text":"","extra":[{"text":"Abominable ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":true},{"text":"Scythe","italic":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Se
+            ve que esta guadaña te hace ser mas afortunado al matar","italic":false,"color":"light_purple","bold":false}]}'
+          enchants:
+            minecraft:looting: 7
+            minecraft:mending: 1
+            minecraft:scavenger: 4
+            minecraft:sharpness: 6
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 6
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.3
+              slot: mainhand
+              operation: 0
+              key: minecraft:f0aaf2eb-799c-418f-b9de-e4097403515f
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
