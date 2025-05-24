@@ -1798,7 +1798,32 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Divine Axe Rhitta"'
+          display-name: '{"text":"","extra":[{"text":"Divine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Axe
+            ","italic":false,"color":"white","bold":true},{"text":"Rhitta","italic":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Hacha Divina tiene bastante fuerza y un poco","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"De Versatilidad en ella , parece que a los
+            invasores les","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Daria Miedo enfrentarse a alguien con ella","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:double_strike: 2
+            minecraft:looting: 6
+            minecraft:mending: 2
+            minecraft:paralyze: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 10
+            minecraft:sweeping_edge: 8
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 4
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -2.9
+              slot: mainhand
+              operation: 0
+              key: minecraft:822c7d03-2743-4f43-b636-4be286882677
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -1844,7 +1869,37 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Divine Punisher"'
+          display-name: '{"text":"","extra":[{"text":"Divine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Punisher","italic":false,"color":"white","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Espada Divina tiene bastante fuerza y un poco","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"De Versatilidad en ella , parece que a los
+            invasores les","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Daria Miedo enfrentarse a alguien con ella","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:double_strike: 2
+            minecraft:looting: 6
+            minecraft:mending: 2
+            minecraft:paralyze: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 7
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 4
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 9.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:53ff9d2d-6263-4d99-94a7-1ce254ca1c20
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -1.9
+              slot: mainhand
+              operation: 0
+              key: minecraft:7b0aa98f-9ede-424a-96e1-0ddab9f9243a
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
