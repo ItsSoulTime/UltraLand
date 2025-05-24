@@ -1243,38 +1243,32 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Waxweaver","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true}]}'
+          display-name: '{"text":"","extra":[{"text":"Sculk ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_blue","bold":true},{"text":"Scythe","italic":false,"color":"dark_gray","bold":true}]}'
           lore:
-          - '""'
           - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
-            Espada se ve bastante elegante y fuerte pero algo lenta","italic":false,"color":"yellow","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Aunque tambien se ve que tiene bastante
-            poder Royal","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Y parece que defiende bien a los aldeanos
-            de una Aldea","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+            Guadaña parece que da más exp y parece","italic":false,"color":"gray","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Que Tendra chances de meter veneno","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
           enchants:
-            minecraft:bane_of_netherspawn: 2
-            minecraft:fire_aspect: 1
-            minecraft:looting: 6
+            minecraft:exp_hunter: 3
+            minecraft:looting: 4
             minecraft:mending: 1
-            minecraft:scavenger: 2
-            minecraft:sharpness: 9
-            minecraft:sweeping_edge: 5
-            minecraft:unbreaking: 7
-            minecraft:village_defender: 3
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 4
+            minecraft:unbreaking: 6
+            minecraft:venom: 2
           attribute-modifiers:
             minecraft:attack_damage:
             - ==: org.bukkit.attribute.AttributeModifier
-              amount: 9.0
+              amount: 7.0
               slot: mainhand
               operation: 0
-              key: minecraft:ae2ed762-33c2-4406-be7f-4960ef4f2f9b
+              key: minecraft:2beed3c6-f960-4100-9e39-d48fadd39160
             minecraft:attack_speed:
             - ==: org.bukkit.attribute.AttributeModifier
-              amount: -1.9
+              amount: 2.3
               slot: mainhand
               operation: 0
-              key: minecraft:9c1d11f0-dcca-4839-b4be-dff5561e5287
+              key: minecraft:5e5930aa-0f97-4797-90e2-65e7647452ce
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -1440,77 +1434,6 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Sculk ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_blue","bold":true},{"text":"Scythe","italic":false,"color":"dark_gray","bold":true}]}'
-          lore:
-          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
-            Guadaña parece que da más exp y parece","italic":false,"color":"gray","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Que Tendra chances de meter veneno","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
-          enchants:
-            minecraft:exp_hunter: 3
-            minecraft:looting: 4
-            minecraft:mending: 1
-            minecraft:sharpness: 7
-            minecraft:sweeping_edge: 4
-            minecraft:unbreaking: 6
-            minecraft:venom: 2
-          attribute-modifiers:
-            minecraft:attack_damage:
-            - ==: org.bukkit.attribute.AttributeModifier
-              amount: 7.0
-              slot: mainhand
-              operation: 0
-              key: minecraft:2beed3c6-f960-4100-9e39-d48fadd39160
-            minecraft:attack_speed:
-            - ==: org.bukkit.attribute.AttributeModifier
-              amount: 2.3
-              slot: mainhand
-              operation: 0
-              key: minecraft:5e5930aa-0f97-4797-90e2-65e7647452ce
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 4082
-        type: QUARTZ
-        amount: 24
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
-          lore:
-          - '""'
-          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
-          enchants:
-            minecraft:unbreaking: 1
-          ItemFlags:
-          - HIDE_ENCHANTS
-          - HIDE_ADDITIONAL_TOOLTIP
-          enchantment-glint-override: true
-      item2:
-        ==: org.bukkit.inventory.ItemStack
-        v: 4082
-        type: NETHERITE_SWORD
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
-          lore:
-          - '""'
-          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
-          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
-          enchants:
-            minecraft:knockback: 2
-            minecraft:looting: 3
-            minecraft:sharpness: 5
-            minecraft:sweeping_edge: 3
-            minecraft:unbreaking: 3
-    '20':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 4082
-        type: NETHERITE_SWORD
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
           display-name: '{"text":"","extra":[{"text":"Muramasa","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":true}]}'
           lore:
           - '""'
@@ -1560,7 +1483,7 @@ data-version: 3|2|4082
             minecraft:sharpness: 5
             minecraft:sweeping_edge: 3
             minecraft:unbreaking: 3
-    '21':
+    '20':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -1568,7 +1491,19 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Abominable Blade"'
+          display-name: '{"text":"","extra":[{"text":"Abominable ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":true},{"text":"Blade","italic":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Una
+            espada un poco mas duradera que su version katana","italic":false,"color":"light_purple","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Se ve que el que lo o la usa es afortunado/a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":false}]}'
+          enchants:
+            minecraft:looting: 7
+            minecraft:mending: 2
+            minecraft:scavenger: 4
+            minecraft:sharpness: 7
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 7
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -1606,7 +1541,7 @@ data-version: 3|2|4082
             minecraft:sharpness: 5
             minecraft:sweeping_edge: 3
             minecraft:unbreaking: 3
-    '22':
+    '21':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -1670,6 +1605,83 @@ data-version: 3|2|4082
             minecraft:sharpness: 5
             minecraft:sweeping_edge: 3
             minecraft:unbreaking: 3
+    '22':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Waxweaver","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Espada se ve bastante elegante y fuerte pero algo lenta","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Aunque tambien se ve que tiene bastante
+            poder Royal","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Y parece que defiende bien a los aldeanos
+            de una Aldea","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:bane_of_netherspawn: 2
+            minecraft:fire_aspect: 1
+            minecraft:looting: 6
+            minecraft:mending: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 9
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 3
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 9.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:ae2ed762-33c2-4406-be7f-4960ef4f2f9b
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: -1.9
+              slot: mainhand
+              operation: 0
+              key: minecraft:9c1d11f0-dcca-4839-b4be-dff5561e5287
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: QUARTZ
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cristal de Mejora","underlined":true,"bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Cristal que increiblemente","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Puede Mejorar brutalmente un arma","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:unbreaking: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Espada Moldeable","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Una espada que puede ser moldeada","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Por otras armas increibles","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:knockback: 2
+            minecraft:looting: 3
+            minecraft:sharpness: 5
+            minecraft:sweeping_edge: 3
+            minecraft:unbreaking: 3
     '23':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
@@ -1678,7 +1690,23 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Wickpiercer"'
+          display-name: '{"text":"","extra":[{"text":"Wickpiercer","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Lanza ademas de verse bastante royal , se ve que","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Que hace daño a los invasores de las aldeas
+            y se ve que tiene","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Mas aparte de eso","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:bane_of_netherspawn: 2
+            minecraft:fire_aspect: 1
+            minecraft:looting: 6
+            minecraft:mending: 1
+            minecraft:scavenger: 3
+            minecraft:sharpness: 7
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 3
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
