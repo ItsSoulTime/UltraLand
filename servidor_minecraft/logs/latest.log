@@ -531,3 +531,46 @@ dsa<--[HERE]
 [15:01:51] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime semanal_key
 [15:08:48] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
 [15:10:17] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:11:05] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:11:38] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:11:46] [Server thread/INFO]: ItsSoulTime issued server command: /enclosing
+[15:11:49] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:11:55] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:12:01] [Server thread/INFO]: ItsSoulTime issued server command: /mystery
+[15:12:03] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:12:25] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:12:33] [Server thread/INFO]: ItsSoulTime issued server command: /simple_roll
+[15:12:36] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:12:51] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:12:57] [Server thread/INFO]: ItsSoulTime issued server command: /storm
+[15:12:59] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:13:10] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:13:17] [Server thread/INFO]: ItsSoulTime issued server command: /roulette
+[15:13:19] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:13:40] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:13:50] [Server thread/INFO]: ItsSoulTime issued server command: /chests_full
+[15:13:52] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:14:33] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:14:41] [Server thread/INFO]: ItsSoulTime issued server command: /enclosing
+[15:14:44] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:14:45] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:14:51] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:14:52] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:14:53] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:14:54] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:14:54] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:15:44] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:16:12] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:16:46] [Server thread/INFO]: ItsSoulTime issued server command: /#values 2
+[15:16:48] [Server thread/INFO]: ItsSoulTime issued server command: /#values 1
+[15:16:53] [Server thread/INFO]: ItsSoulTime issued server command: /#exit
+[15:17:22] [Server thread/INFO]: ItsSoulTime issued server command: /#values 2
+[15:17:24] [Server thread/INFO]: ItsSoulTime issued server command: /#exit
+[15:17:43] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:18:53] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:19:06] [Server thread/INFO]: ItsSoulTime issued server command: /#exit
+[15:19:11] [Server thread/INFO]: ItsSoulTime issued server command: /#values 2
+[15:19:15] [Server thread/INFO]: ItsSoulTime issued server command: /key_rara_key
+[15:19:33] [Server thread/INFO]: ItsSoulTime issued server command: /#values 2
+[15:19:35] [Server thread/INFO]: ItsSoulTime issued server command: /key_epica
+[15:19:54] [Server thread/INFO]: ItsSoulTime issued server command: /roulette

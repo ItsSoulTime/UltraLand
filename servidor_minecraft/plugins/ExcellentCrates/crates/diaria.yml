@@ -12,7 +12,7 @@ Preview:
   Id: default
 Animation:
   Enabled: true
-  Id: csgo
+  Id: roulette
 Opening:
   Cooldown: 0
 Key:
@@ -34,12 +34,19 @@ Block:
       Name: CLOUD
 Milestones:
   Repeatable: false
+  List:
+    '0':
+      Reward_Id: key_epica
+      Openings: 5
+    '1':
+      Reward_Id: key_rara_key
+      Openings: 3
 _dataver: 600
 Rewards:
   List:
     iron_ingot:
       Type: ITEM
-      Weight: 10.0
+      Weight: 50.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -480,3 +487,55 @@ Rewards:
           Tag:
             Value: '{count:32,id:"minecraft:potato"}'
             DataVersion: 4082
+    key_rara_key:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: CUSTOM
+          Handler: ExcellentCrates
+          ItemId: key_rara_key
+          Amount: 1
+    key_epica:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: CUSTOM
+          Handler: ExcellentCrates
+          ItemId: key_epica
+          Amount: 1
