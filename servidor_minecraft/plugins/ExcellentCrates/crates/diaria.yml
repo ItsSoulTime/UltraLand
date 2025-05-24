@@ -46,7 +46,7 @@ Rewards:
   List:
     iron_ingot:
       Type: ITEM
-      Weight: 50.0
+      Weight: 100.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -72,7 +72,7 @@ Rewards:
             DataVersion: 4082
     gold_ingot:
       Type: ITEM
-      Weight: 10.0
+      Weight: 98.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -98,7 +98,7 @@ Rewards:
             DataVersion: 4082
     emerald:
       Type: ITEM
-      Weight: 10.0
+      Weight: 97.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -124,7 +124,7 @@ Rewards:
             DataVersion: 4082
     diamond:
       Type: ITEM
-      Weight: 10.0
+      Weight: 90.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -150,7 +150,7 @@ Rewards:
             DataVersion: 4082
     golden_apple:
       Type: ITEM
-      Weight: 10.0
+      Weight: 90.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -176,7 +176,7 @@ Rewards:
             DataVersion: 4082
     cooked_porkchop:
       Type: ITEM
-      Weight: 10.0
+      Weight: 90.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -202,7 +202,7 @@ Rewards:
             DataVersion: 4082
     jacket_potato:
       Type: ITEM
-      Weight: 10.0
+      Weight: 90.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -228,7 +228,7 @@ Rewards:
             DataVersion: 4082
     ominous_bottle:
       Type: ITEM
-      Weight: 10.0
+      Weight: 85.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -254,7 +254,7 @@ Rewards:
             DataVersion: 4082
     ominous_bottle_1:
       Type: ITEM
-      Weight: 10.0
+      Weight: 84.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -280,7 +280,7 @@ Rewards:
             DataVersion: 4082
     ominous_bottle_2:
       Type: ITEM
-      Weight: 10.0
+      Weight: 83.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -306,7 +306,7 @@ Rewards:
             DataVersion: 4082
     netherite_ingot:
       Type: ITEM
-      Weight: 10.0
+      Weight: 75.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -332,7 +332,7 @@ Rewards:
             DataVersion: 4082
     wind_charge:
       Type: ITEM
-      Weight: 10.0
+      Weight: 80.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -358,7 +358,7 @@ Rewards:
             DataVersion: 4082
     totem_of_undying:
       Type: ITEM
-      Weight: 10.0
+      Weight: 77.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -384,7 +384,7 @@ Rewards:
             DataVersion: 4082
     elytra:
       Type: ITEM
-      Weight: 10.0
+      Weight: 20.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -410,7 +410,7 @@ Rewards:
             DataVersion: 4082
     firework_rocket:
       Type: ITEM
-      Weight: 10.0
+      Weight: 50.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -436,7 +436,7 @@ Rewards:
             DataVersion: 4082
     fragmento_de_cristal_extrao:
       Type: ITEM
-      Weight: 10.0
+      Weight: 40.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -463,7 +463,7 @@ Rewards:
             DataVersion: 4082
     potato:
       Type: ITEM
-      Weight: 10.0
+      Weight: 90.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -489,7 +489,7 @@ Rewards:
             DataVersion: 4082
     key_rara_key:
       Type: ITEM
-      Weight: 10.0
+      Weight: 0.9
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -515,7 +515,7 @@ Rewards:
           Amount: 1
     key_epica:
       Type: ITEM
-      Weight: 10.0
+      Weight: 0.5
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
