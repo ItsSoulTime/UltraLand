@@ -523,3 +523,11 @@ dsa<--[HERE]
 [14:58:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 7 add_number mainhand
 [14:58:12] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 3.2 add_number mainhand
 [15:00:27] [Server thread/INFO]: ItsSoulTime issued server command: /shopkeeper
+[15:01:28] [Server thread/INFO]: ItsSoulTime issued server command: /crate key giveall
+[15:01:37] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime diaria_key
+[15:01:41] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime epica
+[15:01:44] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime legendaria
+[15:01:48] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime rara_key
+[15:01:51] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give ItsSoulTime semanal_key
+[15:08:48] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor
+[15:10:17] [Server thread/INFO]: ItsSoulTime issued server command: /crate editor

@@ -2064,12 +2064,170 @@ data-version: 3|2|4082
   z: -26
   yaw: 179.19939
   type: admin
-  name: ''
+  name: Keys
   object:
     type: villager
     baby: false
-    profession: minecraft:leatherworker
+    profession: minecraft:shepherd
     villagerType: minecraft:plains
     villagerLevel: 1
-  recipes: {}
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Rara Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "rara_key"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: TRIAL_KEY
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Diaria Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "diaria_key"
+            }
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Rara Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "rara_key"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: TRIAL_KEY
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Semanal Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "semanal_key"
+            }
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Epica Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "epica"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Rara Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "rara_key"
+            }
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Epica Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "epica"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: TRIAL_KEY
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Semanal Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "semanal_key"
+            }
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Legendaria Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "legendaria"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Epica Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "epica"
+            }
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Legendaria Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "legendaria"
+            }
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4082
+        type: OMINOUS_TRIAL_KEY
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Epica Key","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":true}]}'
+          PublicBukkitValues: |-
+            {
+                "excellentcrates:crate_key.id": "epica"
+            }
   snapshots: []

@@ -37,39 +37,9 @@ Milestones:
 _dataver: 600
 Rewards:
   List:
-    copper_ingot:
-      Type: ITEM
-      Weight: 20.0
-      Rarity: common
-      Broadcast: false
-      Placeholder_Apply: false
-      Win_Limit:
-        Player:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-        Global:
-          Enabled: false
-          Amount: -1
-          Cooldown: 0
-          CooldownStep: 1
-      Ignored_For_Permissions: []
-      Required_Permissions: []
-      Custom_Preview: false
-      ItemsData:
-        '0':
-          Type: VANILLA
-          Tag:
-            Value: '{count:64,id:"minecraft:copper_ingot"}'
-            DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     iron_ingot:
       Type: ITEM
-      Weight: 15.0
+      Weight: 10.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -91,15 +61,11 @@ Rewards:
         '0':
           Type: VANILLA
           Tag:
-            Value: '{count:64,id:"minecraft:iron_ingot"}'
+            Value: '{count:32,id:"minecraft:iron_ingot"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
     gold_ingot:
       Type: ITEM
-      Weight: 5.0
+      Weight: 10.0
       Rarity: common
       Broadcast: false
       Placeholder_Apply: false
@@ -121,9 +87,396 @@ Rewards:
         '0':
           Type: VANILLA
           Tag:
-            Value: '{count:64,id:"minecraft:gold_ingot"}'
+            Value: '{count:16,id:"minecraft:gold_ingot"}'
             DataVersion: 4082
-      PreviewData:
-        Tag:
-          Value: '{}'
-          DataVersion: 4189
+    emerald:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:8,id:"minecraft:emerald"}'
+            DataVersion: 4082
+    diamond:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:5,id:"minecraft:diamond"}'
+            DataVersion: 4082
+    golden_apple:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:3,id:"minecraft:golden_apple"}'
+            DataVersion: 4082
+    cooked_porkchop:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:16,id:"minecraft:cooked_porkchop"}'
+            DataVersion: 4082
+    jacket_potato:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:24,id:"minecraft:baked_potato"}'
+            DataVersion: 4082
+    ominous_bottle:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:ominous_bottle_amplifier":2},count:1,id:"minecraft:ominous_bottle"}'
+            DataVersion: 4082
+    ominous_bottle_1:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:ominous_bottle_amplifier":3},count:1,id:"minecraft:ominous_bottle"}'
+            DataVersion: 4082
+    ominous_bottle_2:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:ominous_bottle_amplifier":4},count:1,id:"minecraft:ominous_bottle"}'
+            DataVersion: 4082
+    netherite_ingot:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:netherite_ingot"}'
+            DataVersion: 4082
+    wind_charge:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:20,id:"minecraft:wind_charge"}'
+            DataVersion: 4082
+    totem_of_undying:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:totem_of_undying"}'
+            DataVersion: 4082
+    elytra:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:elytra"}'
+            DataVersion: 4082
+    firework_rocket:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:64,id:"minecraft:firework_rocket"}'
+            DataVersion: 4082
+    fragmento_de_cristal_extrao:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"light_purple","italic":true,"obfuscated":false,"strikethrough":false,"text":"Fragmento de cristal extraño","underlined":true}],"text":""}'',"minecraft:enchantment_glint_override":1b,"minecraft:lore":[''""'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"Un extraño fragmento de cristal","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"se
+              ve raro , mejor sera guardarlo","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"y para que crees que servira?","underlined":false}],"text":""}'']},count:3,id:"minecraft:amethyst_shard"}'
+            DataVersion: 4082
+    potato:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:32,id:"minecraft:potato"}'
+            DataVersion: 4082
