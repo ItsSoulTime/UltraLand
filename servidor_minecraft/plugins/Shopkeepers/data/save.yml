@@ -1707,6 +1707,19 @@ data-version: 3|2|4082
             minecraft:sharpness: 7
             minecraft:unbreaking: 7
             minecraft:village_defender: 3
+          attribute-modifiers:
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:ac2c0206-2f89-44ce-aba1-6c637b0f19de
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 3.2
+              slot: mainhand
+              operation: 0
+              key: minecraft:c070c1eb-8c5f-4240-924f-5381714ca762
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -1752,7 +1765,36 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Divine Justice"'
+          display-name: '{"text":"","extra":[{"text":"Divine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Justice","italic":false,"color":"white","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Lanza Divina tiene bastante fuerza y un poco","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"De Versatilidad en ella , parece que a los
+            invasores les","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Daria Miedo enfrentarse a alguien con ella","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:double_strike: 2
+            minecraft:looting: 7
+            minecraft:mending: 2
+            minecraft:paralyze: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 8
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 4
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 3.2
+              slot: mainhand
+              operation: 0
+              key: minecraft:fd81951e-241d-4cb9-86db-2a1df4a2ebd3
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 8.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:f988c3e7-3fb6-457a-bdc6-c330d011e0fd
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
@@ -2013,4 +2055,21 @@ data-version: 3|2|4082
             minecraft:sharpness: 5
             minecraft:sweeping_edge: 3
             minecraft:unbreaking: 3
+  snapshots: []
+'3':
+  uniqueId: 57812e37-efe5-4f98-840e-af48675bf8f7
+  world: etc
+  x: -8
+  y: 231
+  z: -26
+  yaw: 179.19939
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:leatherworker
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes: {}
   snapshots: []

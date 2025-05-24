@@ -506,3 +506,20 @@ dsa<--[HERE]
 [14:48:35] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eDe Versatilidad en ella , parece que a los invasores les
 [14:48:44] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eDaria Miedo enfrentarse a alguien con ella
 [14:50:16] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &e&lDivine &f&lJustice
+[14:52:21] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add
+[14:52:34] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &eEsta Lanza Divina tiene bastante fuerza y un poco
+[14:52:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eDe Versatilidad en ella , parece que a los invasores les
+[14:52:46] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eDaria Miedo enfrentarse a alguien con ella
+[14:53:05] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 8
+[14:53:25] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 7
+[14:53:36] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 7
+[14:54:07] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 2
+[14:54:22] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant village_defender 4
+[14:54:31] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant paralyze 1
+[14:54:39] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant scavenger 2
+[14:54:52] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant double_strike 2
+[14:55:48] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 3.2 add_number mainhand
+[14:57:52] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 8 add_number mainhand
+[14:58:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 7 add_number mainhand
+[14:58:12] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed 3.2 add_number mainhand
+[15:00:27] [Server thread/INFO]: ItsSoulTime issued server command: /shopkeeper
