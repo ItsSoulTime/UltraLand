@@ -453,3 +453,28 @@ Caused by: java.lang.IllegalStateException: Duplicate entries detected: net/opti
 [14:26:36] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eDe Versatilidad en ella , parece que a los invasores les
 [14:26:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &eDaria Miedo enfrentarse a alguien con ella
 [14:29:35] [Server thread/INFO]: ItsSoulTime issued server command: /mv spawn
+[14:31:46] [Server thread/INFO]: ItsSoulTime lost connection: Disconnected
+[14:31:46] [Server thread/INFO]: ItsSoulTime left the game
+[14:31:54] [User Authenticator #1/INFO]: UUID of player ItsSoulTime is 9f68d785-ad11-3bab-bb36-393a7edbfffb
+[14:31:59] [Server thread/INFO]: ItsSoulTime joined the game
+[14:31:59] [Server thread/INFO]: ItsSoulTime[/127.207.40.132:57735] logged in with entity id 192 at ([etc]8.970230182237014, 220.0625, -23.006719276938888)
+[14:32:04] [Server thread/INFO]: ItsSoulTime issued server command: /gamemode creative
+[14:34:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+dsa<--[HERE]
+[14:36:17] [Server thread/INFO]: ItsSoulTime issued server command: /ie rename &e&lDivine &f&lPunisher
+[14:36:42] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sharpness 9
+[14:36:51] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant sweeping_edge 7
+[14:36:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant looting 6
+[14:37:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant unbreaking 7
+[14:37:17] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant mending 2
+[14:37:28] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant village_defender 4
+[14:37:41] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant paralyze 1
+[14:37:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant scavenger 2
+[14:37:59] [Server thread/INFO]: ItsSoulTime issued server command: /ie enchant double_strike 2
+[14:38:30] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_damage 9 add_number mainhand
+[14:38:50] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -1.5 add_number mainhand
+[14:39:02] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute remove attack_speed
+[14:39:09] [Server thread/INFO]: ItsSoulTime issued server command: /ie attribute add attack_speed -1.9 add_number mainhand
+[14:40:06] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &eEsta Espada Divina tiene bastante fuerza y un poco
+[14:40:19] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore set 1
+[14:40:24] [Server thread/INFO]: ItsSoulTime issued server command: /ie lore add &f&l➤ &eEsta Espada Divina tiene bastante fuerza y un poco

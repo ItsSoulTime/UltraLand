@@ -1890,7 +1890,37 @@ data-version: 3|2|4082
         meta:
           ==: ItemMeta
           meta-type: UNSPECIFIC
-          display-name: '"Divine Reaper"'
+          display-name: '{"text":"","extra":[{"text":"Divine ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":true},{"text":"Reaper","italic":false,"color":"white","bold":true}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"➤ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":true},{"text":"Esta
+            Guadaña Divina tiene bastante fuerza y un poco","italic":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"De Versatilidad en ella , parece que a los
+            invasores les","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Daria Miedo enfrentarse a alguien con ella","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          enchants:
+            minecraft:double_strike: 2
+            minecraft:looting: 6
+            minecraft:mending: 2
+            minecraft:paralyze: 1
+            minecraft:scavenger: 2
+            minecraft:sharpness: 8
+            minecraft:sweeping_edge: 5
+            minecraft:unbreaking: 7
+            minecraft:village_defender: 4
+          attribute-modifiers:
+            minecraft:attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.3
+              slot: mainhand
+              operation: 0
+              key: minecraft:0d6725ed-3614-485a-b09f-28a1532107b8
+            minecraft:attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 7.0
+              slot: mainhand
+              operation: 0
+              key: minecraft:9c1c52ab-a2f5-4b5d-a764-9795b56c7240
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 4082
